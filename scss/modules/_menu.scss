@@ -1,0 +1,56 @@
+@import '_variables.scss';
+
+
+.menu-container{
+  height: auto;
+  overflow: auto;
+}
+
+@media screen and (min-width: 34rem){
+  body,
+  .menu-container{
+    overflow-y: auto;
+    height: 100vh;
+  }
+}
+
+/* Hidden without JS*/
+.mobile-main-menu{
+  &-wrap{
+    display: none;
+  }
+}
+
+/* Show with JS*/
+
+.is-mobile .mobile-main-menu{
+  &-wrap{
+    display: block;
+  }
+}
+
+.is-mobile .main-menu{
+  display: none;
+}
+
+.mobile-main-menu{
+  z-index: 1000;
+  background: #fff;
+	width: 100%;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;		
+
+
+  &-hamburger{
+  background-image: url('/hamburger.svg', true);
+  width: 40px;
+  height:40px;
+  position: absolute;
+  top: 5%;
+  left: 80%;
+  }
+}
+
+

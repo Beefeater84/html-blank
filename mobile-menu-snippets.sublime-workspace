@@ -1,0 +1,2924 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"pos-f	position: fixed;"
+			],
+			[
+				"if",
+				"iframe"
+			],
+			[
+				"getet",
+				"getElementsByTagName(name)	Element"
+			],
+			[
+				"fra",
+				"frames"
+			],
+			[
+				"chane",
+				"change"
+			],
+			[
+				"tag",
+				"tagName	(styleeditor.js)"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"va",
+				"valueOf()	Number"
+			],
+			[
+				"font",
+				"font-Georgia	(_layout.scss)"
+			],
+			[
+				"rea",
+				"repeat-x	(_layout.scss)"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"con",
+				"content	(map1.html)"
+			],
+			[
+				"in",
+				"invitation1	(invitation1.html)"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"op",
+				"open	(wed-tools.js)"
+			],
+			[
+				"wi",
+				"width	(_map.scss)"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"tra",
+				"transition	(_layout.scss)"
+			],
+			[
+				"Cla",
+				"classList	Element"
+			],
+			[
+				"par",
+				"parentNode"
+			],
+			[
+				"box",
+				"box-shadow	(wed-ui.scss)"
+			],
+			[
+				"he",
+				"height=400	(map1.html)"
+			],
+			[
+				"type",
+				"typeof	(builder.js)"
+			],
+			[
+				"col-md",
+				"col-md-3	(gift5.html)"
+			],
+			[
+				"trans",
+				"transition	(_button.scss)"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"auto	(_layout.scss)"
+			],
+			[
+				"t-a",
+				"ta-r	text-align: right;"
+			],
+			[
+				"sepa",
+				"separator"
+			],
+			[
+				"cla",
+				"classList	(styleeditor.js)"
+			],
+			[
+				"gete",
+				"getElementById	(styleeditor.js)"
+			],
+			[
+				"gap",
+				"gap-1	(_gap.scss)"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"main",
+				"main-menu	(_menu.scss)"
+			],
+			[
+				"j",
+				"justify-content	(_catalog.scss)"
+			],
+			[
+				"l",
+				"left	(_form.scss)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"100",
+				"100px	(remodal.min.js)"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"td",
+				"td-n	text-decoration: none;"
+			],
+			[
+				"build",
+				"builder.js	(gulpfile.js)"
+			],
+			[
+				"b",
+				"browserify"
+			],
+			[
+				"bui",
+				"builder	(builder.js)"
+			],
+			[
+				"fw",
+				"fw-b	font-weight: bold;"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"_",
+				"_modules	(style.scss)"
+			],
+			[
+				"mod",
+				"modules/_sections"
+			],
+			[
+				"content",
+				"div.content"
+			],
+			[
+				"css",
+				"csso"
+			],
+			[
+				"s",
+				"smallWindow"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"set",
+				"setOnReady"
+			],
+			[
+				"get",
+				"getFullName"
+			],
+			[
+				"create",
+				"createElement〔function〕"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"cu",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"getele",
+				"getElementsByClassName"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"fi",
+				"firstChild"
+			],
+			[
+				"co",
+				"contdown"
+			],
+			[
+				"getE",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"chi",
+				"children〔function〕"
+			],
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"d-i",
+				"d-ib	display: inline-block;"
+			],
+			[
+				"d-f",
+				"d-f	display: flex;"
+			],
+			[
+				"sel",
+				"selectAll"
+			],
+			[
+				"bg",
+				"bgsz	background-size"
+			],
+			[
+				"se",
+				"selectAll"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bgr",
+				"bgr-n	background-repeat: no-repeat;"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"pr",
+				"prev"
+			],
+			[
+				"re",
+				"removeClass〔function〕"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"tool",
+				"tooltip"
+			],
+			[
+				"c",
+				"createTextNode〔function〕"
+			],
+			[
+				"inv",
+				"invert"
+			],
+			[
+				"di",
+				"d-ib	display: inline-block;"
+			],
+			[
+				"img",
+				"images"
+			],
+			[
+				"br",
+				"bdrs	border-radius"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"o",
+				"ovy	overflow-y: ${1:hidden};"
+			],
+			[
+				"view",
+				"viewport"
+			],
+			[
+				"cr",
+				"createElement〔function〕"
+			],
+			[
+				"t",
+				"ta-l	text-align: left;"
+			],
+			[
+				"lis",
+				"lis-n	list-style: none;"
+			],
+			[
+				"cont",
+				"continue〔keyword〕"
+			],
+			[
+				"ge",
+				"getElementsByName〔function〕"
+			],
+			[
+				"margo",
+				"margin-top"
+			],
+			[
+				"sele",
+				"selectValue〔variable〕"
+			],
+			[
+				"pb",
+				"padding-bottom"
+			],
+			[
+				"on",
+				"onreadystatechange〔variable〕"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"ct",
+				"ct-a	content: attr(${0});"
+			],
+			[
+				"font-s",
+				"font-style: 〔property〕"
+			],
+			[
+				"tax",
+				"text-align: 〔property〕"
+			],
+			[
+				"bd",
+				"bd+	border: ${1:1px} ${2:solid} ${3:#000};"
+			],
+			[
+				"v",
+				"v	visibility: ${1:hidden};"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"to",
+				"toggleClass〔function〕"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"bgc",
+				"bgc-t	background-color: transparent;"
+			],
+			[
+				"node",
+				"cloneNode〔function〕"
+			],
+			[
+				"d",
+				"d-tbc	display: table-cell;"
+			],
+			[
+				"g",
+				"grey_color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"grey_",
+				"grey_color"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"da",
+				"dabl_color"
+			],
+			[
+				"ra",
+				"rating"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"gr",
+				"grey_dark"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Sites/wed-them-1/app/templates/friends4.html",
+			"settings":
+			{
+				"buffer_size": 8171,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/js-main.js",
+			"settings":
+			{
+				"buffer_size": 3,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 5145,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7227,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/modules/_helpers.scss",
+			"settings":
+			{
+				"buffer_size": 257,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_modules.scss",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Sites/git-test/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 933,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/modules/_menu.scss",
+			"settings":
+			{
+				"buffer_size": 682,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "$font-family-m: 'OpenSans-Regular', Arial, sans-serif;\n$font-family-h: 'OpenSans-Light', Arial, sans-serif;\n$font-size: 16px;\n$line-height: 22px;\n$color:	#616161;\n$h-color: #141414; // Цвет заголовков\n$text-color: #616161; \n$bg-color: #Fb5A60;\n\n$gap: 1.8rem;\n$handhelds: 768px;\n$tablets:992px;\n$wide-screens:1200px;\n\n\n\n@mixin respond-to($media) {\n  @if $media == phone {\n    @media only screen and (max-width: $handhelds - 1) { @content; }\n  }\n  @else if $media == handhelds {\n    @media only screen and (max-width: $tablets - 1) { @content; }\n  }\n  @else if $media == tablets {\n    @media only screen and (max-width: $wide-screens - 1) { @content; }\n  }\n}\n\n%clear-fix{\n	&:after{\n	    display: table;\n	    clear: both;\n	    content: '';\n	}\n}\n\n@function rem($px, $base: $font_size) {\n    @return ($px / $base) * 1rem;\n}\n\n\n/*** Вспомогательные ***/\n\n%ta-c{\n	text-align: center;\n}\n\n/*** Text ***/\n\n%text-block{\n  color: $text-color;\n}\n\n/// Mixin printing a linear-gradient\n/// as well as a plain color fallback\n/// and the `-webkit-` prefixed declaration\n/// @access public\n/// @param {Keyword | Angle} $direction - Linear gradient direction\n/// @param {Arglist} $color-stops - List of color-stops composing the gradient\n@mixin linear-gradient($direction, $color-stops...) {\n\n  // Direction has been omitted and happens to be a color-stop\n  @if is-direction($direction) == false {\n    $color-stops: $direction, $color-stops;\n    $direction: 180deg;\n  }\n\n  background: nth(nth($color-stops, 1), 1);\n  background: linear-gradient($direction, $color-stops);\n}\n\n/// Test if `$value` is a valid direction\n/// @param {*} $value - Value to test\n/// @return {Bool}\n@function is-direction($value) {\n  $is-keyword: index((to top, to top right, to right top, to right, to bottom right, to right bottom, to bottom, to bottom left, to left bottom, to left, to left top, to top left), $value);\n  $is-angle: type-of($value) == 'number' and index('deg' 'grad' 'turn' 'rad', unit($value));\n\n  @return $is-keyword or $is-angle;\n}\n\n/// Convert a direction to legacy syntax\n/// @param {Keyword | Angle} $value - Value to convert\n/// @require {function} is-direction\n/// @require {function} convert-angle\n/// @throw Cannot convert `#{$value}` to legacy syntax because it doesn't seem to be a direction.;\n@function legacy-direction($value) {\n  @if is-direction($value) == false {\n    @error \"Cannot convert `#{$value}` to legacy syntax because it doesn't seem to be a direction.\";\n  }\n\n  $conversion-map: (\n    to top          : bottom,\n    to top right    : bottom left,\n    to right top    : left bottom,\n    to right        : left,\n    to bottom right : top left,\n    to right bottom : left top,\n    to bottom       : top,\n    to bottom left  : top right,\n    to left bottom  : right top,\n    to left         : right,\n    to left top     : right bottom,\n    to top left     : bottom right\n  );\n\n  @if map-has-key($conversion-map, $value) {\n    @return map-get($conversion-map, $value);\n  }\n\n  @return 90deg - $value;\n}\n\n/******** Helpers *******/\n\n%align-center{\n  position: absolute;\n  left: 50%;\n  transform: translateX(-50%);\n}\n\n%vertical-align{\n  position: absolute;\n  top: 50%;\n  transform: translateY(-50%);  \n}\n\n%center-center{\n  position: absolute;\n  left: 50%;\n  top:50%;\n  transform: translate(-50%, -50%); \n}\n\n%reset-margin{\n  margin:0px;\n}\n",
+			"file": "scss/_variables.scss",
+			"file_size": 3540,
+			"file_write_time": 131181670454355296,
+			"settings":
+			{
+				"buffer_size": 3330,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: remo",
+		"selected_items":
+		[
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ad",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"SassBeautify",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Sites/git-test/mobile-menu-snippet",
+		"/D/Sites/git-test/mobile-menu-snippet/js",
+		"/D/Sites/git-test/mobile-menu-snippet/scss",
+		"/D/Sites/git-test/mobile-menu-snippet/scss/modules"
+	],
+	"file_history":
+	[
+		"/D/Sites/git-test/mobile-menu-snippet/scss/modules/_sections.scss",
+		"/C/Users/Anatoly/AppData/Roaming/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
+		"/D/Sites/git-test/mobile-menu-snippet/scss/_modules.scss",
+		"/D/Sites/git-test/mobile-menu-snippet/scss/modules/_helpers.scss",
+		"/D/Sites/git-test/mobile-menu-snippet/scss/_baze.scss",
+		"/D/Sites/wed-them-1/app/templates/scss/_layout.scss",
+		"/D/Sites/wed-them-1/app/templates/scss/main.scss",
+		"/D/Sites/git-test/mobile-menu-snippet/scss/_variables.scss",
+		"/D/Sites/wed-them-1/package.json",
+		"/D/Sites/git-test/mobile-menu-snippet/sass/_baze.scss",
+		"/D/Sites/git-test/mobile-menu-snippet/sass/main.scss",
+		"/D/Sites/wed-them-1/app/templates/scss/_variables.scss",
+		"/D/Sites/git-test/gulpfile.js",
+		"/D/Sites/git-test/mobile-menu-snippet/css/main.css",
+		"/D/Sites/git-test/package.json",
+		"/D/Sites/wed-them-1/wed-them-1/js/builder.js",
+		"/D/Sites/wp-prav/www/wp-content/themes/dt-presscore/functions.php",
+		"/D/Sites/wp-prav/www/wp-includes/js/quicktags.min.js",
+		"/D/Sites/wed-them-1/wed-theme-1.sublime-project",
+		"/D/БЛОГ Фриланс/Продать/Продам МИТЧЕЛЗ размер 1 (9,5 см). Состояние хороше",
+		"/D/Sites/git-test/npm-debug.log",
+		"/D/Бэкапы/ipolimery_09_09_2016/sites/default/settings.php",
+		"/D/Sites/wp-prav/www/wp-includes/js/shortcode.js",
+		"/D/Бэкапы/site2max_26_08_2016/wp-content/themes/dt-the7-new/js/main.min.js",
+		"/F/post-map.html",
+		"/D/Sites/wed-them-1/wed-them-1/elements/css/colors/red.json",
+		"/D/Sites/wed-them-1/wed-them-1/elements/css/colors/blue.json",
+		"/D/Sites/event_landing/for relize/Event-landing/js/js-main.js",
+		"/F/stm-map/map.js",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_lists.scss",
+		"/D/Sites/event_landing/for relize/Event-landing/php/form_processing.php",
+		"/D/Sites/wed-them-1/wed-them-1/index.html",
+		"/D/Sites/wed-them-1/wed-them-1/elements/php/styleSwith.php",
+		"/D/Sites/wed-them-1/wed-them-1/elements/css/colors/mint.json",
+		"/D/Sites/wed-them-1/wed-them-1/elements/css/colors/purple.json",
+		"/D/Sites/wed-them-1/wed-them-1/elements/css/colors/orange.json",
+		"/D/Sites/wed-them-1/wed-them-1/elements/css/main.css",
+		"/D/Sites/GitHub/Ajax/books.js",
+		"/D/Sites/wed-them-1/gulpfile.js",
+		"/D/Sites/wed-them-1/wed-them-1/elements/css/colors/red.css",
+		"/D/Sites/GitHub/Ajax/js.js",
+		"/D/Sites/wed-them-1/wed-them-1/_save.php",
+		"/D/Sites/wed-them-1/wed-them-1/elements/css/colors/green.css",
+		"/D/Sites/wed-them-1/wed-them-1/elements.json",
+		"/D/Sites/wed-them-1/app/builder/modules/changecolor.js",
+		"/D/Sites/wp-prav/www/map.html",
+		"/D/Sites/wed-them-1/app/builder/modules/content.js",
+		"/D/Sites/wed-them-1/app/templates/scss/colors/red.scss",
+		"/D/Sites/wed-them-1/app/templates/css/colors/red.css",
+		"/D/Sites/wed-them-1/app/templates/scss/_modules.scss",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_countdown.scss",
+		"/D/Sites/wed-them-1/app/templates/textblock4.html",
+		"/D/Sites/wed-them-1/app/templates/textblock5.html",
+		"/D/Sites/wed-them-1/app/templates/textblock6.html",
+		"/D/Sites/wed-them-1/app/templates/textblock7.html",
+		"/D/Sites/wed-them-1/app/templates/textblock8.html",
+		"/D/Sites/wed-them-1/app/templates/textblock9.html",
+		"/D/Sites/wed-them-1/app/templates/textblock10.html",
+		"/D/Бэкапы/site2max_26_08_2016/wp-content/themes/dt-the7/js/map.js",
+		"/F/Jerba.kml",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_text-blocs.scss",
+		"/D/Sites/wed-them-1/app/templates/textblock2.html",
+		"/D/Sites/wed-them-1/app/templates/textblock3.html",
+		"/D/Sites/wed-them-1/app/templates/js/main-js.js",
+		"/D/Sites/wed-them-1/app/templates/countdown2.html",
+		"/D/Sites/wed-them-1/app/templates/js/wed-tools.js",
+		"/D/Sites/wed-them-1/app/templates/countdown4.html",
+		"/D/Sites/wed-them-1/app/templates/friends3.html",
+		"/D/Sites/wed-them-1/app/templates/countdown1.html",
+		"/D/Sites/wed-them-1/app/builder/modules/config.js",
+		"/D/Sites/event_landing/for_examlpe/js/js-main.js",
+		"/D/Sites/wed-them-1/app/templates/tipography.html",
+		"/D/Sites/wed-them-1/app/templates/lists1.html",
+		"/D/Sites/wed-them-1/app/builder_UIfiles/elements.json",
+		"/D/Sites/wed-them-1/app/templates/lists6.html",
+		"/D/Sites/wed-them-1/app/builder/modules/mediumEditorExtensions.js",
+		"/D/Sites/wed-them-1/app/builder/modules/builder.js",
+		"/D/Бэкапы/prav_02_01_2016/public_html/wp-config.php",
+		"/D/Sites/event_landing/for_examlpe/home_5.html",
+		"/D/Sites/wp-prav/www/dost_4.kml",
+		"/D/Sites/wp-prav/www/dost_2.kmz",
+		"/F/24.wordpress.2016-09-01 (5).xml",
+		"/F/dost.kmz",
+		"/F/places_pattaya.kml",
+		"/F/Pattaya_features.kml",
+		"/D/Sites/wp-prav/www/dost.kmz",
+		"/F/cta.kml",
+		"/F/24.wordpress.2016-09-01.xml",
+		"/D/Sites/git-test/node_modules/gulp/index.js",
+		"/D/Sites/wp-prav/www/wp-config.php",
+		"/D/Sites/wed-them-1/app/templates/map1.html",
+		"/D/Sites/git-test/node_modules/font-awesome/package.json",
+		"/D/Sites/wed-them-1/wed-them-1/js/change_colors.js",
+		"/D/Тайланд блог/продвижение/Яндекс директ/выбрать страховка Таиланд",
+		"/D/Sites/wp-test/node_modules/flexboxgrid/package.json",
+		"/D/Sites/wed-them-1/node_modules/normalize-package-data/lib/normalize.js",
+		"/D/Sites/wp-test/node_modules/flexboxgrid/dist/flexboxgrid.min.css",
+		"/D/Sites/wp-test/node_modules/flexboxgrid/dist/flexboxgrid.css",
+		"/D/Sites/wp-test/node_modules/flexboxgrid/package.js",
+		"/D/Sites/wp-test/package.json",
+		"/D/Sites/wed-them-1/node_modules/normalize-package-data/package.json",
+		"/D/Sites/wp-test/gulpfile.js",
+		"/D/Sites/wed-them-1/app/builder_UIfiles/index.html",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_elements.scss",
+		"/D/Sites/wed-them-1/app/templates/invitation_confirm1.html",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_invitation.scss",
+		"/D/Sites/wed-them-1/app/templates/invitation_confirm2.html",
+		"/D/Sites/wed-them-1/app/templates/invitation_confirm3.html",
+		"/D/Sites/wed-them-1/app/templates/invitation1.html",
+		"/D/Sites/wed-them-1/README.md",
+		"/D/Sites/wed-them-1/.gitignore",
+		"/D/Sites/wed-them-1/Design_PSD/SVG/frame/1frame_svg/frame_top.svg",
+		"/D/Sites/wed-them-1/app/templates/img/invitation/1frame_bottom.png",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_map.scss",
+		"/D/Sites/wed-them-1/app/templates/scss/wed-ui.scss",
+		"/D/Sites/wed-them-1/app/templates/map2.html",
+		"/D/Sites/wed-them-1/app/templates/map3.html",
+		"/D/Sites/wed-them-1/app/templates/map4.html",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_button.scss",
+		"/D/Sites/wed-them-1/app/templates/gallery1.html",
+		"/D/Sites/wed-them-1/app/templates/skeleton.html",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_img-effects.scss",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_gift.scss",
+		"/D/Sites/wed-them-1/app/templates/gift5.html",
+		"/D/Sites/wed-them-1/app/templates/video3.html",
+		"/D/Sites/wed-them-1/app/templates/video4.html",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_video.scss",
+		"/D/Sites/wp-prav/www/js/builder.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h-color",
+			"add_action( 'init'",
+			"h1",
+			"body",
+			"251,90,96",
+			"rgb(",
+			" ",
+			"rgb",
+			"rge",
+			"#fb5a60",
+			"console",
+			"fb5a60",
+			"setColor",
+			"#Fb5A60",
+			"#fb5a60",
+			"#Fb5A60",
+			"#000",
+			"section",
+			"ык",
+			"color",
+			"responsiveToggle",
+			"data-originalurl",
+			"\n        ",
+			"data-originalurl",
+			"save",
+			"col-sm-3",
+			"gallery-figure--of",
+			"font-size: 24px;\n  text-align: center;\n  line-height: 28px;",
+			"title",
+			"google.com/maps/d",
+			"col-md-4",
+			"<i class=\"fa fa-heart main-color\" aria-hidden=\"true\"></i>",
+			"lists5",
+			"fa-heart",
+			"<i class=\"fa fa-gift\" aria-hidden=\"true\"></i>",
+			"<i class=\"fa fa-gift\" aria-hidden=\"true\"> </i>",
+			"<i class=\"fa fa-gift\" aria-hidden=\"true\">",
+			"                <div class=\"col-sm-6 col-md-4 propClone wed-tools-column lists-item\">\n                        <div class=\"col-md-3 col-xs-12 lists-icon\">\n                           <i class=\"fa fa-gift icons-medium\" aria-hidden=\"true\"></i> \n                        </div>\n                        <div class=\"col-md-9\">\n                             <h6 class='lists-header'> Сбор гостей 25 мая в 15.00</h6>\n                            <div><p>Этот основной текст используемый в стандартном написании текстов. \n                                Текст нужен.  </p>\n                            </div>                       \n                        </div>  \n                    <div class=\"gap-1\"></div>\n                </div>",
+			"wed-tools-column",
+			"col-sm-4",
+			" lists-item",
+			"                    <div class=\"col-md-3 col-xs-12 lists-icon\">\n                       <i class=\"fa fa-gift icons-medium\" aria-hidden=\"true\"></i> \n                    </div>\n                    <div class=\"col-md-9\">\n                         <h6 class='lists-header'> Сбор гостей 25 мая в 15.00</h6>\n                        <div><p>Этот основной текст используемый в стандартном написании текстов. \n                            Текст нужен.  </p>\n                        </div>                       \n                    </div>  ",
+			"<div class=\"col-md-3 col-xs-12 lists-icon\">\n                       <i class=\"fa fa-gift icons-medium\" aria-hidden=\"true\"></i> \n                    </div>\n                    <div class=\"col-md-9\">\n                         <h6 class='lists-header'> Сбор гостей 25 мая в 15.00</h6>\n                        <div><p>Этот основной текст используемый в стандартном написании текстов. \n                            Текст нужен.  </p>\n                        </div>                       \n                    </div>",
+			"                    <div class=\"row lists-item\">\n                        <div class=\"col-md-3 col-xs-12 lists-icon\">\n                           <i class=\"fa fa-gift icons-medium\" aria-hidden=\"true\"></i> \n                        </div>\n                        <div class=\"col-md-9\">\n                             <h6 class='lists-header'> Сбор гостей 25 мая в 15.00</h6>\n                            <div><p>Этот основной текст используемый в стандартном написании текстов. \n                                Текст нужен.  </p>\n                            </div>                       \n                        </div>                        \n                    </div>",
+			"                <div class=\"col-sm-6 propClone wed-tools-column ta-c mobile-gap\">\n                        <i class=\"fa fa-gift icons-medium\" aria-hidden=\"true\"></i>\n                        <h6 class='lists-header'> Сбор гостей 25 мая в 15.00</h6>\n                        <div><p>Этот основной текст используемый в стандартном написании текстов. \n                            Текст нужен.  </p>\n                        </div>\n                </div>",
+			"<h6>",
+			"h4",
+			" col-md-3",
+			"col-sm-2",
+			"col-md-3",
+			"для того что бы оценить \n                            размер цвет.",
+			", форму, промежутки между \n                            строк и как он выглядить страницах.",
+			"Этот основной текст используемый в стандартном написании текстов. \n                            Текст нужен для того что бы оценить \n                            размер цвет, форму, промежутки между \n                            строк и как он выглядить страницах.",
+			"large",
+			"h3",
+			"setPendingChanges",
+			"iframe",
+			"moveMode",
+			"frame",
+			"pull-left",
+			"extand",
+			"section",
+			"#site2",
+			"#site",
+			"wed",
+			"Банкет",
+			"btn",
+			"tagName",
+			"transform",
+			"%;\n",
+			"img-full",
+			"\n<!--",
+			"сайт",
+			");\n",
+			"data-type",
+			"editVideo",
+			"video",
+			"videoInputYoutube",
+			"youtubeID",
+			"video",
+			"videoInputVimeo",
+			"videoInputYoutube",
+			"video",
+			"src",
+			"videoWrapper",
+			"editContent",
+			"config",
+			"появлялась",
+			"title",
+			"h2",
+			"section",
+			"жениха",
+			"                        <figure class='gallery-figure--of hover-effect--tony-figure'>\n                            <div class=\"hover-effect--tony-shadow\"></div>\n                            <img class='lightbox-img hover-effect--tony-img' src=\"images/kvadrat/1.png\" alt=\"\">\n                            <figcaption class='gallery-figcaption hover-effect--tony-figcaption'>\n                                <span class='hover-effect--tony-plus'><span class='hover-effect--tony-plus-fa fa fa-search-plus'></span></span>\n                                <span class=\"hover-effect--tony-title editContent\"><p>красотка, интригантка и прекрасная женщина</p></span>\n                                <a href=\"#\" class='lightbox-a'></a>\n                            </figcaption>\n                        </figure>",
+			"col-md-3",
+			"top",
+			">\n",
+			"}\n",
+			"2r",
+			"2rem",
+			"0.5",
+			"container",
+			"flex-shrink:0",
+			"flex-shrink:0px;",
+			"flex-shrink",
+			"невесты",
+			"style=\"fill:#fb5a60\"",
+			"swangs",
+			"heightAdjustment",
+			"height",
+			"heigth",
+			"section",
+			"helper",
+			"move",
+			"mousemove",
+			"makeDraggable",
+			"300",
+			"ui-sortable-helper",
+			"moveMode",
+			"newPos",
+			"drag",
+			"mouse",
+			"150",
+			"heightAdjustment",
+			"я шкодю",
+			"this.heightAdjustment",
+			"EditableCon",
+			"Editable",
+			"this.heightAdjustment"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"                                <figure class='gallery-figure--of hover-effect--steve-figure'>\n                                    <img class='lightbox-img' src=\"images/kvadrat/3.png\" alt=\"\">\n                                    <figcaption class='gallery-figcaption'>\n                                        <span class='hover-effect--steve-plus'><span class='hover-effect--steve-plus-fa fa fa-search-plus'></span></span>\n                                        <a href=\"#\" class='lightbox-a'></a>\n                                    </figcaption>\n                                </figure>",
+			"col-sm-3",
+			" ",
+			"",
+			"space[i]",
+			"$color-header",
+			"'",
+			"gallery-figure--of",
+			"gallery-figure--sn",
+			"$color-bg",
+			"$width",
+			"$font-family",
+			"h5",
+			"propClone wed-tools-column ",
+			"h5",
+			"wed-tools-column propClone ",
+			"wed-tools-column propClone",
+			"h5",
+			"wed-tools-column",
+			"wed-tools-column propClone",
+			"h5",
+			"propClone wed-tools-column",
+			"propClone wed-tools-column ",
+			"propClone",
+			"pageContainer",
+			" ",
+			"propClone wed-tools-column",
+			".countdown-el",
+			",",
+			"gift-list",
+			"tony",
+			"target",
+			"_blank",
+			"forClone",
+			"bubba",
+			",",
+			"gallery-figure--of",
+			"tony",
+			"figcaption",
+			"caption",
+			"bubba",
+			"gallery6",
+			"#filter-2",
+			"figure",
+			"",
+			"http://elanding/",
+			"http://krochivo.ru/",
+			"nav",
+			"cccccc",
+			"button-small",
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+			"js-main-menu",
+			"pt-item",
+			"<i class=\"fa fa-pencil-square-o\"></i>",
+			"310",
+			"article",
+			"fa fa-pencil-square-o",
+			"$bazeUrl",
+			"'",
+			".main-menu",
+			"red",
+			"1200px;",
+			"<i class=\"fa fa-pencil-square-o\"></i>",
+			"elegant_rounded",
+			".ex-1",
+			" ",
+			"1200",
+			"1170",
+			"col-2",
+			"bg-type",
+			"col-4",
+			"border-type",
+			"gl-item ef-1 bg-type col-3",
+			"Title gallery page",
+			"gl",
+			"ef_square_4",
+			"Portfolio page",
+			"ms-item",
+			"ef_square_2",
+			"col-4",
+			"ef_square_1",
+			"ef_square_2",
+			"pt-item",
+			"ef-circle-4",
+			"ef-circle-3",
+			"ef-circle-2",
+			"ef-circle-4",
+			"ef-circle-3",
+			"ef-circle-2",
+			"ef-circle-1",
+			"ef-circle",
+			"pt-item round-item",
+			"col-4",
+			"div",
+			".pl-item.ef_square",
+			"ef_circle",
+			".dcjq-vertical-mega-menu",
+			"#828282"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Sites/wed-them-1/app/templates/friends4.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										253,
+										257
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										253,
+										257
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/js-main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scss/_layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5145,
+						"regions":
+						{
+							"gutter_color_1281":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1281,
+										1318
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1334":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1334,
+										1371
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1372":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#313131.png",
+								"regions":
+								[
+									[
+										1372,
+										1391
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1409":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1409,
+										1446
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1447":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#313131.png",
+								"regions":
+								[
+									[
+										1447,
+										1466
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1483":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1483,
+										1520
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1536":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1536,
+										1573
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1574":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#313131.png",
+								"regions":
+								[
+									[
+										1574,
+										1593
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1710":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1710,
+										1735
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2274":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1263,
+										1300
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2327":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1316,
+										1353
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2365":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#313131.png",
+								"regions":
+								[
+									[
+										1354,
+										1373
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2402":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1391,
+										1428
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2440":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#313131.png",
+								"regions":
+								[
+									[
+										1429,
+										1448
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2476":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1465,
+										1502
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2529":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1518,
+										1555
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2567":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#313131.png",
+								"regions":
+								[
+									[
+										1556,
+										1575
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2608":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1583,
+										1583
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2885":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										1692,
+										1717
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_432":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#27ae60.png",
+								"regions":
+								[
+									[
+										5144,
+										5144
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_454":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#27ae60.png",
+								"regions":
+								[
+									[
+										5144,
+										5144
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4993":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										3454,
+										3454
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5413":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ccc.png",
+								"regions":
+								[
+									[
+										3454,
+										3454
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5592":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5711":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#45668e.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5767":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#f6881f.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5818":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#3b5998.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5870":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#517fa4.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5920":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#00aced.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5974":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#dd4b39.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_6174":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/gray.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_6219":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/gray.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_7704":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_7875":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/gray.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_7943":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#f6f6f6.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8318":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8437":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#45668e.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8493":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#f6881f.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8544":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#3b5998.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8596":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#517fa4.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8646":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#00aced.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8700":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#dd4b39.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8900":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/gray.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_8945":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/gray.png",
+								"regions":
+								[
+									[
+										5142,
+										5142
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								5139,
+								5139
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5340.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								729
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scss/modules/_helpers.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										220,
+										221
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										203,
+										204
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scss/_modules.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/Sites/git-test/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								714,
+								714
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										713,
+										714
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										708,
+										709
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "scss/modules/_menu.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 682,
+						"regions":
+						{
+							"gutter_color_439":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										439,
+										458
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_444":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										533,
+										533
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_449":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										439,
+										458
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								470,
+								470
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										678,
+										679
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										420,
+										421
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "scss/_variables.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3330,
+						"regions":
+						{
+							"gutter_color_146":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#616161.png",
+								"regions":
+								[
+									[
+										146,
+										162
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_163":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#141414.png",
+								"regions":
+								[
+									[
+										163,
+										200
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_174":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#616161.png",
+								"regions":
+								[
+									[
+										201,
+										223
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_186":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#Fb5A60.png",
+								"regions":
+								[
+									[
+										224,
+										243
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_197":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#Fb5A60.png",
+								"regions":
+								[
+									[
+										224,
+										243
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_201":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#616161.png",
+								"regions":
+								[
+									[
+										201,
+										223
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_217":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#141414.png",
+								"regions":
+								[
+									[
+										244,
+										244
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_224":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#Fb5A60.png",
+								"regions":
+								[
+									[
+										224,
+										243
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_328":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#00bd9c.png",
+								"regions":
+								[
+									[
+										316,
+										316
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_336":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#33485e.png",
+								"regions":
+								[
+									[
+										316,
+										316
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_337":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#33485e.png",
+								"regions":
+								[
+									[
+										316,
+										316
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mobile-menu-snippets.sublime-project",
+	"replace":
+	{
+		"height": 306.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
