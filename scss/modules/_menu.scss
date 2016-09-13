@@ -36,21 +36,81 @@
 .mobile-main-menu{
   z-index: 1000;
   background: #fff;
-	width: 100%;
+  width: 100%;
   height: 100vh;
   position: fixed;
   left: 0;
-  top: 0;		
-
-
-  &-hamburger{
-  background-image: url('/hamburger.svg', true);
-  width: 40px;
-  height:40px;
-  position: absolute;
-  top: 5%;
-  left: 80%;
+  top: 0;
+  transition: transform .5s ease;
+  transform: translate3d(-100%, 0, 0);
+  &.is-open{
+    transform: translate3d(0, 0, 0);
   }
+  &-hamburger{
+  	@extend %clean-button;
+    background-image: url('/hamburger.svg',true);
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 20px;
+    left: 80%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+  }
+  &-close{
+  	@extend %clean-button;
+  	background-color: $bg-color;
+  }
+	&-close-icon{
+		display: block;
+    background-image: url('/cancel.svg',true);
+    width: 20px;
+    height: 20px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;		
+	}
 }
 
+.next-level-button{
+  display: none;
+}
+
+.has-submenu .next-level-button{
+	@extend %clean-button;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: block;
+  background-image: url('/plus.svg',true);
+  background-size: contain;;
+}
+
+
+/* SubMenu */
+.mobile-main-menu{
+	&-li{
+		position: relative;
+		list-style: none;
+	}
+	&-li--sub{
+		position: relative;
+		list-style: none;
+	}
+	&--submenu{
+		margin-bottom:16px;
+		opacity: 1;
+		transition: max-height 0.5s linear, opacity 0.9s linear, margin-bottom 0.25s linear ;
+	}
+	&--submenu.is-close{
+		overflow-x: hidden;
+		max-height:0px !important;
+		opacity: 0.01;
+		margin-bottom:0px;
+	}
+
+}
 

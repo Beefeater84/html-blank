@@ -13,9 +13,6 @@ $tablets:992px;
 $wide-screens:1200px;
 
 
-$color-1: #00bd9c;
-$color-wed: #33485e;
-
 
 @mixin respond-to($media) {
   @if $media == phone {
@@ -46,6 +43,11 @@ $color-wed: #33485e;
 
 %ta-c{
 	text-align: center;
+}
+
+%clean-button{
+  background-color: transparent;
+  border:0;
 }
 
 /*** Text ***/
