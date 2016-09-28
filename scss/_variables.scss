@@ -1,11 +1,10 @@
 $font-family-m: 'OpenSans-Regular', Arial, sans-serif;
 $font-family-h: 'OpenSans-Light', Arial, sans-serif;
 $font-size: 16px;
-$line-height: 22px;
-$color:	#616161;
+$line-height: 24px;
+$color:	#262b2e;
 $h-color: #141414; // Цвет заголовков
-$text-color: #616161; 
-$bg-color: #Fb5A60;
+$bg-color: #009acd;
 
 $gap: 1.8rem;
 $handhelds: 768px;
@@ -50,10 +49,9 @@ $wide-screens:1200px;
   border:0;
 }
 
-/*** Text ***/
-
-%text-block{
-  color: $text-color;
+@mixin clean-button() {
+  background-color: transparent;
+  border:0;
 }
 
 /// Mixin printing a linear-gradient
@@ -134,9 +132,34 @@ $wide-screens:1200px;
   position: absolute;
   left: 50%;
   top:50%;
-  transform: translate(-50%, -50%); 
+  transform: translate(-50%, -50%);
+   
 }
+
 
 %reset-margin{
   margin:0px;
 }
+
+%assistive-text {
+    position: absolute !important;
+    clip: rect(1px, 1px, 1px, 1px);
+}
+
+@mixin invisible() {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+@mixin clean-button() {
+  background-color: transparent;
+  border:0;
+}
+

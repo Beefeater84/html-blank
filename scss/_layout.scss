@@ -60,34 +60,7 @@ html{
 // Large devices (desktops, less than 75em - 1200 - lg)
 @media (min-width: 75rem){
   .container{
-    max-width: ( 1140 / 16) * 1rem;
-  }
-}
-
-/*
-Link correction
-*/
-
-a{
-  transition: all .1s linear 0s;
-  text-decoration: none;
-  &:link{
-    text-decoration: none !important;
-  }
-  &:hover{
-    text-decoration: none !important;
-    color: #313131;
-  }
-  &:vizited{
-    text-decoration: none !important;
-    color: #313131;
-  }
-  &:active{
-    text-decoration: none !important;
-  }
-  &:focus{
-    text-decoration: none !important;
-    color: #313131;
+    max-width: ( 1250 / 16) * 1rem;
   }
 }
 
@@ -261,8 +234,7 @@ h6{
 .h3,
 h1,
 h2,
-h3,
-p{
+h3{
     -webkit-margin-before: 0em;
     -webkit-margin-after: 0em;
     -webkit-margin-start: 0px;

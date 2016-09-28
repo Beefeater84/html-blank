@@ -19,6 +19,11 @@
   width: 100%;
 }
 
+.assistive-text {
+    position: absolute !important;
+    clip: rect(1px, 1px, 1px, 1px);
+}
+
 .invisible{
-	visibility: hidden;
+  @include invisible();
 }

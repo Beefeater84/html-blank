@@ -4,8 +4,36 @@
 		"selected_items":
 		[
 			[
+				"ali",
+				"align-items"
+			],
+			[
+				"max",
+				"max-height\t(_menu.scss)"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"ov",
+				"ovx\toverflow-x: ${1:hidden};"
+			],
+			[
+				"pos",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"get",
+				"getElementsByClassName\t(friends4.html)"
+			],
+			[
 				"po",
-				"pos-f	position: fixed;"
+				"pos-f\tposition: fixed;"
 			],
 			[
 				"if",
@@ -13,7 +41,7 @@
 			],
 			[
 				"getet",
-				"getElementsByTagName(name)	Element"
+				"getElementsByTagName(name)\tElement"
 			],
 			[
 				"fra",
@@ -25,7 +53,7 @@
 			],
 			[
 				"tag",
-				"tagName	(styleeditor.js)"
+				"tagName\t(styleeditor.js)"
 			],
 			[
 				"ta",
@@ -41,27 +69,23 @@
 			],
 			[
 				"va",
-				"valueOf()	Number"
+				"valueOf()\tNumber"
 			],
 			[
 				"font",
-				"font-Georgia	(_layout.scss)"
+				"font-Georgia\t(_layout.scss)"
 			],
 			[
 				"rea",
-				"repeat-x	(_layout.scss)"
-			],
-			[
-				"pos",
-				"pos-a	position: absolute;"
+				"repeat-x\t(_layout.scss)"
 			],
 			[
 				"con",
-				"content	(map1.html)"
+				"content\t(map1.html)"
 			],
 			[
 				"in",
-				"invitation1	(invitation1.html)"
+				"invitation1\t(invitation1.html)"
 			],
 			[
 				"z",
@@ -69,11 +93,11 @@
 			],
 			[
 				"op",
-				"open	(wed-tools.js)"
+				"open\t(wed-tools.js)"
 			],
 			[
 				"wi",
-				"width	(_map.scss)"
+				"width\t(_map.scss)"
 			],
 			[
 				"ma",
@@ -85,11 +109,11 @@
 			],
 			[
 				"tra",
-				"transition	(_layout.scss)"
+				"transition\t(_layout.scss)"
 			],
 			[
 				"Cla",
-				"classList	Element"
+				"classList\tElement"
 			],
 			[
 				"par",
@@ -97,23 +121,23 @@
 			],
 			[
 				"box",
-				"box-shadow	(wed-ui.scss)"
+				"box-shadow\t(wed-ui.scss)"
 			],
 			[
 				"he",
-				"height=400	(map1.html)"
+				"height=400\t(map1.html)"
 			],
 			[
 				"type",
-				"typeof	(builder.js)"
+				"typeof\t(builder.js)"
 			],
 			[
 				"col-md",
-				"col-md-3	(gift5.html)"
+				"col-md-3\t(gift5.html)"
 			],
 			[
 				"trans",
-				"transition	(_button.scss)"
+				"transition\t(_button.scss)"
 			],
 			[
 				"m",
@@ -121,31 +145,27 @@
 			],
 			[
 				"a",
-				"auto	(_layout.scss)"
+				"auto\t(_layout.scss)"
 			],
 			[
 				"t-a",
-				"ta-r	text-align: right;"
+				"ta-r\ttext-align: right;"
 			],
 			[
 				"sepa",
 				"separator"
 			],
 			[
-				"cla",
-				"classList	(styleeditor.js)"
-			],
-			[
 				"gete",
-				"getElementById	(styleeditor.js)"
+				"getElementById\t(styleeditor.js)"
 			],
 			[
 				"gap",
-				"gap-1	(_gap.scss)"
+				"gap-1\t(_gap.scss)"
 			],
 			[
 				"for",
-				"for	for (…) {…} (Improved Native For-Loop)"
+				"for\tfor (…) {…} (Improved Native For-Loop)"
 			],
 			[
 				"doc",
@@ -157,15 +177,15 @@
 			],
 			[
 				"main",
-				"main-menu	(_menu.scss)"
+				"main-menu\t(_menu.scss)"
 			],
 			[
 				"j",
-				"justify-content	(_catalog.scss)"
+				"justify-content\t(_catalog.scss)"
 			],
 			[
 				"l",
-				"left	(_form.scss)"
+				"left\t(_form.scss)"
 			],
 			[
 				"tex",
@@ -173,7 +193,7 @@
 			],
 			[
 				"100",
-				"100px	(remodal.min.js)"
+				"100px\t(remodal.min.js)"
 			],
 			[
 				"em",
@@ -181,11 +201,11 @@
 			],
 			[
 				"td",
-				"td-n	text-decoration: none;"
+				"td-n\ttext-decoration: none;"
 			],
 			[
 				"build",
-				"builder.js	(gulpfile.js)"
+				"builder.js\t(gulpfile.js)"
 			],
 			[
 				"b",
@@ -193,11 +213,11 @@
 			],
 			[
 				"bui",
-				"builder	(builder.js)"
+				"builder\t(builder.js)"
 			],
 			[
 				"fw",
-				"fw-b	font-weight: bold;"
+				"fw-b\tfont-weight: bold;"
 			],
 			[
 				"bo",
@@ -209,7 +229,7 @@
 			],
 			[
 				"_",
-				"_modules	(style.scss)"
+				"_modules\t(style.scss)"
 			],
 			[
 				"mod",
@@ -236,10 +256,6 @@
 				"setOnReady"
 			],
 			[
-				"get",
-				"getFullName"
-			],
-			[
 				"create",
 				"createElement〔function〕"
 			],
@@ -253,7 +269,7 @@
 			],
 			[
 				"cu",
-				"cur	cursor: ${pointer};"
+				"cur\tcursor: ${pointer};"
 			],
 			[
 				"add",
@@ -285,7 +301,7 @@
 			],
 			[
 				"fl",
-				"fl-l	float: left;"
+				"fl-l\tfloat: left;"
 			],
 			[
 				"cl",
@@ -297,11 +313,11 @@
 			],
 			[
 				"d-i",
-				"d-ib	display: inline-block;"
+				"d-ib\tdisplay: inline-block;"
 			],
 			[
 				"d-f",
-				"d-f	display: flex;"
+				"d-f\tdisplay: flex;"
 			],
 			[
 				"sel",
@@ -309,7 +325,7 @@
 			],
 			[
 				"bg",
-				"bgsz	background-size"
+				"bgsz\tbackground-size"
 			],
 			[
 				"se",
@@ -321,11 +337,7 @@
 			],
 			[
 				"bgr",
-				"bgr-n	background-repeat: no-repeat;"
-			],
-			[
-				"max",
-				"max-width"
+				"bgr-n\tbackground-repeat: no-repeat;"
 			],
 			[
 				"min",
@@ -361,7 +373,7 @@
 			],
 			[
 				"di",
-				"d-ib	display: inline-block;"
+				"d-ib\tdisplay: inline-block;"
 			],
 			[
 				"img",
@@ -369,7 +381,7 @@
 			],
 			[
 				"br",
-				"bdrs	border-radius"
+				"bdrs\tborder-radius"
 			],
 			[
 				"remove",
@@ -377,7 +389,7 @@
 			],
 			[
 				"o",
-				"ovy	overflow-y: ${1:hidden};"
+				"ovy\toverflow-y: ${1:hidden};"
 			],
 			[
 				"view",
@@ -389,11 +401,11 @@
 			],
 			[
 				"t",
-				"ta-l	text-align: left;"
+				"ta-l\ttext-align: left;"
 			],
 			[
 				"lis",
-				"lis-n	list-style: none;"
+				"lis-n\tlist-style: none;"
 			],
 			[
 				"cont",
@@ -425,7 +437,7 @@
 			],
 			[
 				"ct",
-				"ct-a	content: attr(${0});"
+				"ct-a\tcontent: attr(${0});"
 			],
 			[
 				"font-s",
@@ -437,11 +449,11 @@
 			],
 			[
 				"bd",
-				"bd+	border: ${1:1px} ${2:solid} ${3:#000};"
+				"bd+\tborder: ${1:1px} ${2:solid} ${3:#000};"
 			],
 			[
 				"v",
-				"v	visibility: ${1:hidden};"
+				"v\tvisibility: ${1:hidden};"
 			],
 			[
 				"pre",
@@ -457,7 +469,7 @@
 			],
 			[
 				"bgc",
-				"bgc-t	background-color: transparent;"
+				"bgc-t\tbackground-color: transparent;"
 			],
 			[
 				"node",
@@ -465,7 +477,7 @@
 			],
 			[
 				"d",
-				"d-tbc	display: table-cell;"
+				"d-tbc\tdisplay: table-cell;"
 			],
 			[
 				"g",
@@ -482,10 +494,6 @@
 			[
 				"pa",
 				"padding-left"
-			],
-			[
-				"bac",
-				"background-image"
 			],
 			[
 				"marg",
@@ -506,32 +514,26 @@
 			[
 				"margin",
 				"margin-right"
-			],
-			[
-				"im",
-				"important"
-			],
-			[
-				"gr",
-				"grey_dark"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/D/Sites/wed-them-1/app/templates/friends4.html",
+			"file": "js/js-main.js",
 			"settings":
 			{
-				"buffer_size": 8171,
+				"buffer_size": 1395,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "js/js-main.js",
+			"file": "scss/main.scss",
 			"settings":
 			{
-				"buffer_size": 3,
+				"buffer_size": 76,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -539,7 +541,17 @@
 			"file": "scss/_layout.scss",
 			"settings":
 			{
-				"buffer_size": 5145,
+				"buffer_size": 4728,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 3744,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -547,31 +559,8 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7227,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "scss/modules/_helpers.scss",
-			"settings":
-			{
-				"buffer_size": 257,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "scss/_modules.scss",
-			"settings":
-			{
-				"buffer_size": 81,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/Sites/git-test/gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 933,
+				"buffer_size": 17500,
+				"encoding": "UTF-8 with BOM",
 				"line_ending": "Windows"
 			}
 		},
@@ -579,18 +568,17 @@
 			"file": "scss/modules/_menu.scss",
 			"settings":
 			{
-				"buffer_size": 682,
+				"buffer_size": 5163,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "$font-family-m: 'OpenSans-Regular', Arial, sans-serif;\n$font-family-h: 'OpenSans-Light', Arial, sans-serif;\n$font-size: 16px;\n$line-height: 22px;\n$color:	#616161;\n$h-color: #141414; // Цвет заголовков\n$text-color: #616161; \n$bg-color: #Fb5A60;\n\n$gap: 1.8rem;\n$handhelds: 768px;\n$tablets:992px;\n$wide-screens:1200px;\n\n\n\n@mixin respond-to($media) {\n  @if $media == phone {\n    @media only screen and (max-width: $handhelds - 1) { @content; }\n  }\n  @else if $media == handhelds {\n    @media only screen and (max-width: $tablets - 1) { @content; }\n  }\n  @else if $media == tablets {\n    @media only screen and (max-width: $wide-screens - 1) { @content; }\n  }\n}\n\n%clear-fix{\n	&:after{\n	    display: table;\n	    clear: both;\n	    content: '';\n	}\n}\n\n@function rem($px, $base: $font_size) {\n    @return ($px / $base) * 1rem;\n}\n\n\n/*** Вспомогательные ***/\n\n%ta-c{\n	text-align: center;\n}\n\n/*** Text ***/\n\n%text-block{\n  color: $text-color;\n}\n\n/// Mixin printing a linear-gradient\n/// as well as a plain color fallback\n/// and the `-webkit-` prefixed declaration\n/// @access public\n/// @param {Keyword | Angle} $direction - Linear gradient direction\n/// @param {Arglist} $color-stops - List of color-stops composing the gradient\n@mixin linear-gradient($direction, $color-stops...) {\n\n  // Direction has been omitted and happens to be a color-stop\n  @if is-direction($direction) == false {\n    $color-stops: $direction, $color-stops;\n    $direction: 180deg;\n  }\n\n  background: nth(nth($color-stops, 1), 1);\n  background: linear-gradient($direction, $color-stops);\n}\n\n/// Test if `$value` is a valid direction\n/// @param {*} $value - Value to test\n/// @return {Bool}\n@function is-direction($value) {\n  $is-keyword: index((to top, to top right, to right top, to right, to bottom right, to right bottom, to bottom, to bottom left, to left bottom, to left, to left top, to top left), $value);\n  $is-angle: type-of($value) == 'number' and index('deg' 'grad' 'turn' 'rad', unit($value));\n\n  @return $is-keyword or $is-angle;\n}\n\n/// Convert a direction to legacy syntax\n/// @param {Keyword | Angle} $value - Value to convert\n/// @require {function} is-direction\n/// @require {function} convert-angle\n/// @throw Cannot convert `#{$value}` to legacy syntax because it doesn't seem to be a direction.;\n@function legacy-direction($value) {\n  @if is-direction($value) == false {\n    @error \"Cannot convert `#{$value}` to legacy syntax because it doesn't seem to be a direction.\";\n  }\n\n  $conversion-map: (\n    to top          : bottom,\n    to top right    : bottom left,\n    to right top    : left bottom,\n    to right        : left,\n    to bottom right : top left,\n    to right bottom : left top,\n    to bottom       : top,\n    to bottom left  : top right,\n    to left bottom  : right top,\n    to left         : right,\n    to left top     : right bottom,\n    to top left     : bottom right\n  );\n\n  @if map-has-key($conversion-map, $value) {\n    @return map-get($conversion-map, $value);\n  }\n\n  @return 90deg - $value;\n}\n\n/******** Helpers *******/\n\n%align-center{\n  position: absolute;\n  left: 50%;\n  transform: translateX(-50%);\n}\n\n%vertical-align{\n  position: absolute;\n  top: 50%;\n  transform: translateY(-50%);  \n}\n\n%center-center{\n  position: absolute;\n  left: 50%;\n  top:50%;\n  transform: translate(-50%, -50%); \n}\n\n%reset-margin{\n  margin:0px;\n}\n",
-			"file": "scss/_variables.scss",
-			"file_size": 3540,
-			"file_write_time": 131181670454355296,
+			"file": "scss/modules/_helpers.scss",
 			"settings":
 			{
-				"buffer_size": 3330,
+				"buffer_size": 352,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -691,19 +679,40 @@
 	],
 	"file_history":
 	[
-		"/D/Sites/git-test/mobile-menu-snippet/scss/modules/_sections.scss",
-		"/C/Users/Anatoly/AppData/Roaming/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
+		"/D/Sites/git-test/mobile-menu-snippet/img/hamburger.svg",
+		"/D/Sites/git-test/mobile-menu-snippet/img/hamburger-n.svg",
+		"/F/functions.php",
+		"/D/Страховка/Запросы по страховке",
+		"/D/Sites/git-test/site2max-theme/functions.php",
+		"/D/Sites/git-test/mobile-menu-snippet/img/cancel.svg",
+		"/D/Sites/git-test/mobile-menu-snippet/img/plus-n.svg",
+		"/D/Sites/git-test/mobile-menu-snippet/img/cancel-n.svg",
+		"/D/Sites/git-test/site2max-theme/scss/modules/_menu.scss",
+		"/D/Sites/git-test/site2max-theme/scss/_variables.scss",
+		"/D/Sites/git-test/site2max-theme/scss/modules/_list_articles.scss",
+		"/D/Sites/git-test/site2max-theme/scss/modules/_banners.scss",
+		"/D/Sites/git-test/site2max-theme/scss/_layout.scss",
+		"/D/Sites/git-test/gulpfile.js",
+		"/D/Sites/git-test/site2max-theme/js/js-main.js",
+		"/D/Sites/git-test/site2max-theme/index.html",
+		"/D/Sites/git-test/mobile-menu-snippet/scss/_variables.scss",
 		"/D/Sites/git-test/mobile-menu-snippet/scss/_modules.scss",
 		"/D/Sites/git-test/mobile-menu-snippet/scss/modules/_helpers.scss",
+		"/D/Sites/wed-them-1/app/templates/scss/modules/_separators.scss",
+		"/D/Sites/git-test/mobile-menu-snippet/scss/modules/_menu.scss",
+		"/D/Sites/git-test/mobile-menu-snippet/index.html",
 		"/D/Sites/git-test/mobile-menu-snippet/scss/_baze.scss",
+		"/D/Sites/git-test/mobile-menu-snippet/scss/_layout.scss",
+		"/D/Sites/git-test/mobile-menu-snippet/js/js-main.js",
+		"/D/Sites/wed-them-1/app/templates/friends4.html",
+		"/D/Sites/git-test/mobile-menu-snippet/scss/modules/_sections.scss",
+		"/C/Users/Anatoly/AppData/Roaming/Sublime Text 3/Packages/CSScomb/Default.sublime-keymap",
 		"/D/Sites/wed-them-1/app/templates/scss/_layout.scss",
 		"/D/Sites/wed-them-1/app/templates/scss/main.scss",
-		"/D/Sites/git-test/mobile-menu-snippet/scss/_variables.scss",
 		"/D/Sites/wed-them-1/package.json",
 		"/D/Sites/git-test/mobile-menu-snippet/sass/_baze.scss",
 		"/D/Sites/git-test/mobile-menu-snippet/sass/main.scss",
 		"/D/Sites/wed-them-1/app/templates/scss/_variables.scss",
-		"/D/Sites/git-test/gulpfile.js",
 		"/D/Sites/git-test/mobile-menu-snippet/css/main.css",
 		"/D/Sites/git-test/package.json",
 		"/D/Sites/wed-them-1/wed-them-1/js/builder.js",
@@ -797,28 +806,7 @@
 		"/D/Sites/wed-them-1/app/templates/scss/modules/_elements.scss",
 		"/D/Sites/wed-them-1/app/templates/invitation_confirm1.html",
 		"/D/Sites/wed-them-1/app/templates/scss/modules/_invitation.scss",
-		"/D/Sites/wed-them-1/app/templates/invitation_confirm2.html",
-		"/D/Sites/wed-them-1/app/templates/invitation_confirm3.html",
-		"/D/Sites/wed-them-1/app/templates/invitation1.html",
-		"/D/Sites/wed-them-1/README.md",
-		"/D/Sites/wed-them-1/.gitignore",
-		"/D/Sites/wed-them-1/Design_PSD/SVG/frame/1frame_svg/frame_top.svg",
-		"/D/Sites/wed-them-1/app/templates/img/invitation/1frame_bottom.png",
-		"/D/Sites/wed-them-1/app/templates/scss/modules/_map.scss",
-		"/D/Sites/wed-them-1/app/templates/scss/wed-ui.scss",
-		"/D/Sites/wed-them-1/app/templates/map2.html",
-		"/D/Sites/wed-them-1/app/templates/map3.html",
-		"/D/Sites/wed-them-1/app/templates/map4.html",
-		"/D/Sites/wed-them-1/app/templates/scss/modules/_button.scss",
-		"/D/Sites/wed-them-1/app/templates/gallery1.html",
-		"/D/Sites/wed-them-1/app/templates/skeleton.html",
-		"/D/Sites/wed-them-1/app/templates/scss/modules/_img-effects.scss",
-		"/D/Sites/wed-them-1/app/templates/scss/modules/_gift.scss",
-		"/D/Sites/wed-them-1/app/templates/gift5.html",
-		"/D/Sites/wed-them-1/app/templates/video3.html",
-		"/D/Sites/wed-them-1/app/templates/video4.html",
-		"/D/Sites/wed-them-1/app/templates/scss/modules/_video.scss",
-		"/D/Sites/wp-prav/www/js/builder.js"
+		"/D/Sites/wed-them-1/app/templates/invitation_confirm2.html"
 	],
 	"find":
 	{
@@ -836,6 +824,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"zoom",
+			"mobile-main-menu-hamburger",
+			"c1",
+			"%;",
+			"overlay",
+			"banner",
+			"text-color",
 			"h-color",
 			"add_action( 'init'",
 			"h1",
@@ -956,14 +951,7 @@
 			"moveMode",
 			"newPos",
 			"drag",
-			"mouse",
-			"150",
-			"heightAdjustment",
-			"я шкодю",
-			"this.heightAdjustment",
-			"EditableCon",
-			"Editable",
-			"this.heightAdjustment"
+			"mouse"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1079,1028 +1067,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/D/Sites/wed-them-1/app/templates/friends4.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8171,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								319,
-								319
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										253,
-										257
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/tag.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										253,
-										257
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"colorcode": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "js/js-main.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3,
+						"buffer_size": 1395,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"colorcode": true,
-							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "scss/_layout.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5145,
-						"regions":
-						{
-							"gutter_color_1281":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1281,
-										1318
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_1334":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1334,
-										1371
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_1372":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#313131.png",
-								"regions":
-								[
-									[
-										1372,
-										1391
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_1409":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1409,
-										1446
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_1447":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#313131.png",
-								"regions":
-								[
-									[
-										1447,
-										1466
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_1483":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1483,
-										1520
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_1536":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1536,
-										1573
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_1574":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#313131.png",
-								"regions":
-								[
-									[
-										1574,
-										1593
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_1710":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1710,
-										1735
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_2274":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1263,
-										1300
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_2327":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1316,
-										1353
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_2365":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#313131.png",
-								"regions":
-								[
-									[
-										1354,
-										1373
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_2402":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1391,
-										1428
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_2440":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#313131.png",
-								"regions":
-								[
-									[
-										1429,
-										1448
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_2476":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1465,
-										1502
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_2529":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1518,
-										1555
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_2567":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#313131.png",
-								"regions":
-								[
-									[
-										1556,
-										1575
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_2608":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1583,
-										1583
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_2885":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										1692,
-										1717
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_432":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#27ae60.png",
-								"regions":
-								[
-									[
-										5144,
-										5144
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_454":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#27ae60.png",
-								"regions":
-								[
-									[
-										5144,
-										5144
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_4993":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#fff.png",
-								"regions":
-								[
-									[
-										3454,
-										3454
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_5413":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#ccc.png",
-								"regions":
-								[
-									[
-										3454,
-										3454
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_5592":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#fff.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_5711":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#45668e.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_5767":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#f6881f.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_5818":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#3b5998.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_5870":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#517fa4.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_5920":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#00aced.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_5974":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#dd4b39.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_6174":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/gray.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_6219":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/gray.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_7704":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/tan.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_7875":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/gray.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_7943":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#f6f6f6.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_8318":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#fff.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_8437":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#45668e.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_8493":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#f6881f.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_8544":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#3b5998.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_8596":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#517fa4.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_8646":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#00aced.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_8700":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#dd4b39.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_8900":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/gray.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_8945":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/gray.png",
-								"regions":
-								[
-									[
-										5142,
-										5142
-									]
-								],
-								"scope": "gutter_color"
-							}
-						},
-						"selection":
-						[
-							[
-								5139,
-								5139
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"colorcode": true,
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 5340.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7227,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								729,
-								729
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"colorcode": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 240.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "scss/modules/_helpers.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 257,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								221,
-								221
+								1388,
+								1388
 							]
 						],
 						"settings":
@@ -2112,8 +1096,8 @@
 								{
 									"1":
 									[
-										220,
-										221
+										1387,
+										1388
 									]
 								},
 								"icon":
@@ -2128,8 +1112,8 @@
 								{
 									"1":
 									[
-										203,
-										204
+										67,
+										68
 									]
 								},
 								"unmatched":
@@ -2138,31 +1122,36 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -2173,132 +1162,25 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"colorcode": true,
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "scss/_modules.scss",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 81,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								24,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_tag_content"
 							],
 							"colorcode": true,
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -2308,20 +1190,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "/D/Sites/git-test/gulpfile.js",
+					"buffer": 1,
+					"file": "scss/main.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 933,
+						"buffer_size": 76,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								714,
-								714
+								18,
+								18
 							]
 						],
 						"settings":
@@ -2333,15 +1215,15 @@
 								{
 									"1":
 									[
-										713,
-										714
+										18,
+										19
 									]
 								},
 								"icon":
 								{
 									"1":
 									[
-										"Packages/BracketHighlighter/icons/single_quote.png",
+										"Packages/BracketHighlighter/icons/double_quote.png",
 										"brackethighlighter.default"
 									]
 								},
@@ -2349,8 +1231,8 @@
 								{
 									"1":
 									[
-										708,
-										709
+										8,
+										9
 									]
 								},
 								"unmatched":
@@ -2359,31 +1241,36 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -2394,31 +1281,24 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"colorcode": true,
-							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -2428,49 +1308,23 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "scss/modules/_menu.scss",
+					"buffer": 2,
+					"file": "scss/_layout.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 682,
+						"buffer_size": 4728,
 						"regions":
 						{
-							"gutter_color_439":
+							"gutter_color_1296":
 							{
 								"flags": 144,
-								"icon": "Cache/GutterColor/#fff.png",
+								"icon": "Cache/GutterColor/tan.png",
 								"regions":
 								[
 									[
-										439,
-										458
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_444":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#fff.png",
-								"regions":
-								[
-									[
-										533,
-										533
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_449":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#fff.png",
-								"regions":
-								[
-									[
-										439,
-										458
+										1296,
+										1321
 									]
 								],
 								"scope": "gutter_color"
@@ -2479,8 +1333,8 @@
 						"selection":
 						[
 							[
-								470,
-								470
+								4329,
+								4329
 							]
 						],
 						"settings":
@@ -2490,27 +1344,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										678,
-										679
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"brackethighlighter.default"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										420,
-										421
-									]
 								},
 								"unmatched":
 								{
@@ -2518,31 +1357,36 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -2553,50 +1397,47 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"colorcode": true,
-							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 420.0,
+						"translation.y": 4440.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 3,
 					"file": "scss/_variables.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3330,
+						"buffer_size": 3744,
 						"regions":
 						{
 							"gutter_color_146":
 							{
 								"flags": 144,
-								"icon": "Cache/GutterColor/#616161.png",
+								"icon": "Cache/GutterColor/#262b2e.png",
 								"regions":
 								[
 									[
@@ -2619,119 +1460,54 @@
 								],
 								"scope": "gutter_color"
 							},
-							"gutter_color_174":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#616161.png",
-								"regions":
-								[
-									[
-										201,
-										223
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_186":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#Fb5A60.png",
-								"regions":
-								[
-									[
-										224,
-										243
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_197":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#Fb5A60.png",
-								"regions":
-								[
-									[
-										224,
-										243
-									]
-								],
-								"scope": "gutter_color"
-							},
 							"gutter_color_201":
 							{
 								"flags": 144,
-								"icon": "Cache/GutterColor/#616161.png",
+								"icon": "Cache/GutterColor/#009acd.png",
 								"regions":
 								[
 									[
 										201,
-										223
+										220
 									]
 								],
 								"scope": "gutter_color"
 							},
-							"gutter_color_217":
+							"gutter_color_3336":
 							{
 								"flags": 144,
-								"icon": "Cache/GutterColor/#141414.png",
+								"icon": "Cache/GutterColor/tan.png",
 								"regions":
 								[
 									[
-										244,
-										244
+										3411,
+										3445
 									]
 								],
 								"scope": "gutter_color"
 							},
-							"gutter_color_224":
+							"gutter_color_3408":
 							{
 								"flags": 144,
-								"icon": "Cache/GutterColor/#Fb5A60.png",
+								"icon": "Cache/GutterColor/tan.png",
 								"regions":
 								[
 									[
-										224,
-										243
+										3411,
+										3445
 									]
 								],
 								"scope": "gutter_color"
 							},
-							"gutter_color_328":
+							"gutter_color_3411":
 							{
 								"flags": 144,
-								"icon": "Cache/GutterColor/#00bd9c.png",
+								"icon": "Cache/GutterColor/tan.png",
 								"regions":
 								[
 									[
-										316,
-										316
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_336":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#33485e.png",
-								"regions":
-								[
-									[
-										316,
-										316
-									]
-								],
-								"scope": "gutter_color"
-							},
-							"gutter_color_337":
-							{
-								"flags": 144,
-								"icon": "Cache/GutterColor/#33485e.png",
-								"regions":
-								[
-									[
-										316,
-										316
+										3411,
+										3445
 									]
 								],
 								"scope": "gutter_color"
@@ -2740,8 +1516,8 @@
 						"selection":
 						[
 							[
-								316,
-								316
+								3254,
+								3254
 							]
 						],
 						"settings":
@@ -2764,31 +1540,36 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -2799,37 +1580,1691 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"colorcode": true,
 							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 0.0,
+						"translation.x": 0.0,
+						"translation.y": 2153.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								580
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										592,
+										593
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										560,
+										561
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scss/modules/_menu.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5163,
+						"regions":
+						{
+							"gutter_color_1730":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2144,
+										2174
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1812":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#eee.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1818":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2144,
+										2174
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1838":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2144,
+										2174
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1843":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#eee.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1844":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#eee.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1860":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#eee.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1861":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#eee.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1897":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2144,
+										2174
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1910":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2144,
+										2174
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1915":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#eee.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1934":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1991":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2008":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2111,
+										2141
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2020":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2038":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2111,
+										2141
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2066":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2111,
+										2141
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2073":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2111,
+										2141
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2087":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2111,
+										2141
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2111":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2111,
+										2141
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2112":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										2111,
+										2141
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2171":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2173":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2213":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2283":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2303":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2304":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2316":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2341":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2365":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2366":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2395":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2419":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2426":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2427":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2443":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2444":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2445":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2498":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2509":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2558":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2574":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2620":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2636":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2637":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2638":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2691":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3350":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3353":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3774":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3786":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3798":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3873":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3961":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3979":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3981":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_3991":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4040":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4053":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4184":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_423":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ccc.png",
+								"regions":
+								[
+									[
+										476,
+										509
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4242":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4249":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4263":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4287":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4288":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										4287,
+										4324
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_440":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										527,
+										546
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_443":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										527,
+										546
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_444":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										444,
+										477
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4579":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4651":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4885,
+										4913
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_471":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										527,
+										546
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4752":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4785":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4888,
+										4917
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_481":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										527,
+										546
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4815":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4888,
+										4917
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4831":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4843":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4888,
+										4917
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4844":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5078,
+										5115
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4850":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4888,
+										4917
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4860":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4888,
+										4917
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4888":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4888,
+										4917
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4889":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										4888,
+										4917
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_492":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										527,
+										546
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_495":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fff.png",
+								"regions":
+								[
+									[
+										495,
+										514
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_4981":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5084,
+										5120
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5039":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5084,
+										5120
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5056":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5084,
+										5120
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5084":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5084,
+										5120
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_5085":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#000.png",
+								"regions":
+								[
+									[
+										5084,
+										5120
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_863":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										985,
+										1027
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_865":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										1019,
+										1062
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_912":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										985,
+										1027
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_940":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										985,
+										1027
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_947":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										985,
+										1027
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_957":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										985,
+										1027
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_961":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										985,
+										1027
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_985":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										985,
+										1027
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_986":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#c1c1c1.png",
+								"regions":
+								[
+									[
+										985,
+										1027
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								953,
+								953
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1055,
+										1056
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										743,
+										744
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 893.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scss/modules/_helpers.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 352,
+						"regions":
+						{
+							"gutter_color_241":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/tan.png",
+								"regions":
+								[
+									[
+										241,
+										275
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								337,
+								337
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										351,
+										352
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										325,
+										326
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"colorcode": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

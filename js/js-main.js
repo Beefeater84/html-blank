@@ -1,12 +1,11 @@
-
 /* Mobile menu */
 
 
-if(document.documentElement.clientWidth < 540){
+if(document.documentElement.clientWidth <= 992){
 	(function(){
 		var menuContainer = document.querySelector('.menu-container');
 		menuContainer.classList.add('is-mobile'); // show mobile menu
-
+		var overlay = document.querySelector('.stm-overlay');
 		// tools
 
 		var hamButton = document.querySelector('.mobile-main-menu-hamburger');
@@ -15,10 +14,17 @@ if(document.documentElement.clientWidth < 540){
 
 		hamButton.addEventListener('click', function(){
 			mobileMenu.classList.toggle('is-open');
+			overlay.classList.toggle('is-visible');
+		});
+
+		overlay.addEventListener('click', function(){
+			mobileMenu.classList.remove('is-open');
+			overlay.classList.remove('is-visible');
 		});
 
 		closeMobileButton.addEventListener('click', function(){
 			mobileMenu.classList.toggle('is-open');
+			overlay.classList.toggle('is-visible');
 		});
 
 		var subMenuButton = document.querySelector('.next-level-button');
