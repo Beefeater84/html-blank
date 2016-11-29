@@ -1,12 +1,16 @@
 /*** Sections ***/
-@mixin section-color($color){
+@mixin section-color($color, $hovercolor: #fff){
   background-color: $color;
+
+  &.invert{
+    @include section-invert($hovercolor);
+  }
 }
 
 @mixin section-invert($color: #fff){
   color: $color;
   a{
-  	color: $color;
+    color: $color;
   }
 }
 
