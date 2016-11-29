@@ -1,11 +1,25 @@
-@import '_variables.scss';
 /*** Sections ***/
-
-section{
-  margin-bottom: $gap;
-  @extend %clear-fix;
+@mixin section-color($color){
+  background-color: $color;
 }
 
+@mixin section-invert($color: #fff){
+  color: $color;
+  a{
+  	color: $color;
+  }
+}
 
+section{
+  @include clear-fix();
+  padding: 20px;
+}
 
+.section-gray{
+  @include section-color(#ccc);
+}
 
+.section-dark{
+  @include section-color(#000);
+  @include section-invert();
+}

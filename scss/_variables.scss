@@ -1,5 +1,4 @@
-$font-family-m: 'OpenSans-Regular', Arial, sans-serif;
-$font-family-h: 'OpenSans-Light', Arial, sans-serif;
+$font-family: Arial, sans-serif;
 $font-size: 16px;
 $line-height: 24px;
 $color:	#262b2e;
@@ -25,14 +24,6 @@ $wide-screens:1200px;
   }
 }
 
-%clear-fix{
-	&:after{
-	    display: table;
-	    clear: both;
-	    content: '';
-	}
-}
-
 @function rem($px, $base: $font_size) {
     @return ($px / $base) * 1rem;
 }
@@ -47,6 +38,14 @@ $wide-screens:1200px;
 %clean-button{
   background-color: transparent;
   border:0;
+}
+
+@mixin clear-fix() {
+  &:after{
+      display: table;
+      clear: both;
+      content: '';
+  }
 }
 
 @mixin clean-button() {
