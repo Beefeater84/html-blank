@@ -3,16 +3,12 @@ var gulp           = require('gulp'),
 		sass           = require('gulp-sass'),
 		browserSync    = require('browser-sync'),
     sourcemaps 		 = require('gulp-sourcemaps'),
-		concat         = require('gulp-concat'),
-		uglify         = require('gulp-uglify'),
 		cleanCSS       = require('gulp-clean-css'),
-		rename         = require('gulp-rename'),
 		del            = require('del'),
 		imagemin       = require('gulp-imagemin'),
 		cache          = require('gulp-cache'),
 		autoprefixer   = require('gulp-autoprefixer'),
 		bourbon        = require('node-bourbon'),
-		ftp            = require('vinyl-ftp'),
 		notify         = require("gulp-notify");
 
 
@@ -33,7 +29,6 @@ gulp.task('scss', function() {
 	.pipe(sass({
 		includePaths: bourbon.includePaths
 	}).on("error", notify.onError()))
-	.pipe(rename({suffix: '.min', prefix : ''}))
 	.pipe(autoprefixer(['last 15 versions']))
 	.pipe(cleanCSS())
   .pipe(sourcemaps.write())
@@ -60,7 +55,7 @@ gulp.task('build', ['removedist', 'imagemin', 'scss'], function() {
 		]).pipe(gulp.dest('dist'));
 
 	var buildCss = gulp.src([
-		'app/css/main.min.css',
+		'app/css/*.css', 'app/vendors/flexboxgrid/dist/flexboxgrid.css',
 		]).pipe(gulp.dest('dist/css'));
 
 	var buildJs = gulp.src([
@@ -70,24 +65,6 @@ gulp.task('build', ['removedist', 'imagemin', 'scss'], function() {
 
 });
 
-gulp.task('deploy', function() {
-
-	var conn = ftp.create({
-		host:      'hostname.com',
-		user:      'username',
-		password:  'userpassword',
-		parallel:  10,
-		log: gutil.log
-	});
-
-	var globs = [
-	'dist/**',
-	'dist/.htaccess',
-	];
-	return gulp.src(globs, {buffer: false})
-	.pipe(conn.dest('/path/to/folder/on/server'));
-
-});
 
 gulp.task('removedist', function() { return del.sync('dist'); });
 gulp.task('clearcache', function () { return cache.clearAll(); });
