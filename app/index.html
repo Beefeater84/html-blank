@@ -28,6 +28,11 @@
     непосредственно после него, например
     можно и в конце страницы
     -->
+    <label for="nav-toggle" class="nav-toggle" onclick>
+    			<div class="mask-content"></div>
+    </label>
+    
+
     <nav class="nav">
         <!-- 
     Метка с именем `id` чекбокса в `for` атрибуте
@@ -35,14 +40,11 @@
     Пустой атрибут `onclick` используем для исправления бага в iOS < 6.0
     См: http://timpietrusky.com/advanced-checkbox-hack 
     -->
-        <label for="nav-toggle" class="nav-toggle" onclick></label>
         <!-- 
     Здесь размещаете любую разметку,
     если это меню, то скорее всего неупорядоченный список <ul>
     -->
-        <h2 class="logo"> 
-            <a href="//dbmast.ru/">DBmast.ru</a> 
-        </h2>
+
         <ul>
             <li><a href="#1">Один</a>
             <li><a href="#2">Два</a>
@@ -54,55 +56,12 @@
         </ul>
     </nav>
 
+   <!-- 
+    Маска (затемнение) основного контента при включенной панели
+    по-умолчанию данная фишка не используется, если оно вам надо,
+		просто расккоментируйте div-контейнер ниже
+		-->
 
-
-
-
-
-
-	<div class="menu-container">
-		<div class="mobile-main-menu-wrap">
-			<button class="mobile-main-menu-hamburger"/>
-				<span class='invisible'>Меню</span>
-				<i class="mobile-main-menu-hamburger-icon"></i>
-			</button>
-
-			<nav class="mobile-main-menu">
-				<button class="mobile-main-menu-close"/><span class='invisible'>Закрыть</span><i class="mobile-main-menu-close-icon"></i></button>
-				<ul class="mobile-main-menu-ul">
-					<li class='box mobile-main-menu-li has-submenu'>
-						<a href=""  class='mobile-main-menu-a'>Ссылка главного меню</a> <i class="next-level-button"></i>
-						<ul class='mobile-main-menu--submenu'>
-							<li class='mobile-main-menu-li--sub'>
-								<a href="">Подменю</a>
-							</li>
-							<li class='mobile-main-menu-li--sub'>
-								<a href="">Подменю</a>
-							</li>
-						</ul>
-		
-					</li>
-
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-					<li class='box mobile-main-menu-li'><a href="" class='mobile-main-menu-a'>Ссылка главного меню</a></li>
-				</ul>
-			</nav>			
-		</div>
 
 
 		<header class='header'>
