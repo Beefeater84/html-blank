@@ -7,7 +7,7 @@
 .mobile-gap{
   margin-bottom: $gap;
 }
-@media (min-width: 48rem){
+@media (min-width: 600px){
   .mobile-gap{
     margin-bottom: 0;
   }

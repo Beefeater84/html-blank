@@ -6,23 +6,7 @@ $h-color: #141414; // Цвет заголовков
 $bg-color: #009acd;
 
 $gap: 1.8rem;
-$handhelds: 768px;
-$tablets:992px;
-$wide-screens:1200px;
 
-
-
-@mixin respond-to($media) {
-  @if $media == phone {
-    @media only screen and (max-width: $handhelds - 1) { @content; }
-  }
-  @else if $media == handhelds {
-    @media only screen and (max-width: $tablets - 1) { @content; }
-  }
-  @else if $media == tablets {
-    @media only screen and (max-width: $wide-screens - 1) { @content; }
-  }
-}
 
 @function rem($px, $base: $font_size) {
     @return ($px / $base) * 1rem;

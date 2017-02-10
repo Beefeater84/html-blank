@@ -88,34 +88,26 @@ h6{
   margin-left: auto;
 }
 
-// Small devices (landscape phones, less than 34em - 544px - xs)
-@media (min-width: 34rem){
-  .container{
-    max-width: 35rem;
-  }
+@media screen and (max-width: 599px){
+
+
 }
 
-// Small devices (landscape phones, less than 48em - 766px -sm)
-@media (min-width: 48rem){
-  .container{
-    max-width: 49rem;
-  }
+@media screen and (min-width: 600px){
+
 }
 
-// Medium devices (tablets, less than 62em - 992px - md)
-@media (min-width: 62rem){
-  .container{
-    max-width: ( 940 / 16) * 1rem;
-  }
+@media screen and (min-width: 900px){
+
 }
 
-// Large devices (desktops, less than 75em - 1200 - lg)
-@media (min-width: 75rem){
-  .container{
-    max-width: ( 1250 / 16) * 1rem;
-  }
+@media screen and (min-width: 1200px){
+
 }
 
+@media screen and (min-width: 1800px){
+
+}
 
 /********** FORM *********/
 

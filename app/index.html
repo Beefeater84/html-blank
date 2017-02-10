@@ -6,8 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Html</title>
 
-  <link href="vendors/flexboxgrid/dist/flexboxgrid.css" rel="stylesheet">
- 	<link href='css/style.css' media='screen, projection' rel='stylesheet' type='text/css' />
+	<link href="vendors/flexboxgrid/dist/flexboxgrid.css" rel="stylesheet">
+	<link href='css/style.css' media='screen, projection' rel='stylesheet' type='text/css' />
 
 </head>
 <body>
@@ -15,50 +15,50 @@
 
 
 <!-- 
-    Скрытый checkbox, отвечающий за переключение панели, должен быть в верхней части документа, лучше сразу после тега `<body>`
+		Скрытый checkbox, отвечающий за переключение панели, должен быть в верхней части документа, лучше сразу после тега `<body>`
 
-    `id` атрибут предназначен для связки с атрибутом `for` тега <label>
+		`id` атрибут предназначен для связки с атрибутом `for` тега <label>
 
-    Атрибут `hidden` указывает состояние «скрытый» у текущего элемента
-    -->
-    <input type="checkbox" id="nav-toggle" hidden>
-    <!-- 
-    Выдвижную панель размещаете ниже
-    флажка (checkbox), но не обязательно 
-    непосредственно после него, например
-    можно и в конце страницы
-    -->
-    <label for="nav-toggle" class="nav-toggle" onclick>
-    			<div class="mask-content"></div>
-    </label>
-    
+		Атрибут `hidden` указывает состояние «скрытый» у текущего элемента
+		-->
+		<input type="checkbox" id="nav-toggle" hidden>
+		<!-- 
+		Выдвижную панель размещаете ниже
+		флажка (checkbox), но не обязательно 
+		непосредственно после него, например
+		можно и в конце страницы
+		-->
+		<label for="nav-toggle" class="nav-toggle" onclick>
+					<div class="mask-content"></div>
+		</label>
+		
 
-    <nav class="nav">
-        <!-- 
-    Метка с именем `id` чекбокса в `for` атрибуте
-    Символ Unicode 'TRIGRAM FOR HEAVEN' (U+2630)
-    Пустой атрибут `onclick` используем для исправления бага в iOS < 6.0
-    См: http://timpietrusky.com/advanced-checkbox-hack 
-    -->
-        <!-- 
-    Здесь размещаете любую разметку,
-    если это меню, то скорее всего неупорядоченный список <ul>
-    -->
+		<nav class="nav">
+				<!-- 
+		Метка с именем `id` чекбокса в `for` атрибуте
+		Символ Unicode 'TRIGRAM FOR HEAVEN' (U+2630)
+		Пустой атрибут `onclick` используем для исправления бага в iOS < 6.0
+		См: http://timpietrusky.com/advanced-checkbox-hack 
+		-->
+				<!-- 
+		Здесь размещаете любую разметку,
+		если это меню, то скорее всего неупорядоченный список <ul>
+		-->
 
-        <ul>
-            <li><a href="#1">Один</a>
-            <li><a href="#2">Два</a>
-            <li><a href="#3">Три</a>
-            <li><a href="#4">Четыре</a>
-            <li><a href="#5">Пять</a>
-            <li><a href="#6">Шесть</a>
-            <li><a href="#7">Семь</a> 
-        </ul>
-    </nav>
+				<ul>
+						<li><a href="#1">Один</a></li>
+						<li><a href="#2">Два</a></li>
+						<li><a href="#3">Три</a></li>
+						<li><a href="#4">Четыре</a></li>
+						<li><a href="#5">Пять</a></li>
+						<li><a href="#6">Шесть</a></li>
+						<li><a href="#7">Семь</a> </li>
+				</ul>
+		</nav>
 
-   <!-- 
-    Маска (затемнение) основного контента при включенной панели
-    по-умолчанию данная фишка не используется, если оно вам надо,
+	 <!-- 
+		Маска (затемнение) основного контента при включенной панели
+		по-умолчанию данная фишка не используется, если оно вам надо,
 		просто расккоментируйте div-контейнер ниже
 		-->
 

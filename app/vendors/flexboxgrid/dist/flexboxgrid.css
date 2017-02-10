@@ -297,7 +297,7 @@ padding-left: 3.6rem;
   order: 1;
 }
 
-@media only screen and (min-width: 48em) {
+@media only screen and (min-width: 600px) {
 
   .col-sm,
   .col-sm-1,
@@ -550,7 +550,7 @@ padding-left: 3.6rem;
   }
 }
 
-@media only screen and (min-width: 62em) {
+@media only screen and (min-width: 900px) {
   .col-md,
   .col-md-1,
   .col-md-2,
@@ -802,7 +802,7 @@ padding-left: 3.6rem;
   }
 }
 
-@media only screen and (min-width: 75em) {
+@media only screen and (min-width: 1200px) {
 
   .col-lg,
   .col-lg-1,
