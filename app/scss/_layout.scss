@@ -21,6 +21,7 @@ section{
   width: 30%;
   padding: 30px;
   background-color: #eee;
+  float: left;
 }
 
 article.withSidebar,
@@ -28,6 +29,7 @@ section.withSidebar,
 div.withSidebar{
   padding-right: 40px;
   width: 70%;
+  float: left;
 }
 
 
