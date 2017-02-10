@@ -1,77 +1,64 @@
 body{
-  font-family: $font-family;
-  font-size: $font-size;
-  line-height: $line-height;
-  color: $color;
+	font-family: $font-family;
+	font-size: $font-size;
+	line-height: $line-height;
+	color: $color;
 }
 
 article,
 section{
-  width: 100%;
+	width: 100%;
 }
 
 .header{
-  height: 80px;
-  box-shadow: 1px 1px 4px 1px rgba(0,0,0,.1);
+	height: 80px;
+	box-shadow: 1px 1px 4px 1px rgba(0,0,0,.1);
 }
 
-/**** One sidebar **/
-
-.sidebar{
-  width: 30%;
-  padding: 30px;
-  background-color: #eee;
-  float: left;
-}
-
-article.withSidebar,
-section.withSidebar,
-div.withSidebar{
-  padding-right: 40px;
-  width: 70%;
-  float: left;
+.main-content{
+	padding: $gap;
 }
 
 
 /** H1-H6 ***/
 
 h1{
-  font-size: rem(48px);
-  line-height: rem(50px);
-  margin-bottom: 0;
-  padding-bottom: rem(5px);
+	font-size: rem(48px);
+	line-height: rem(50px);
+	margin-bottom: 0;
+	padding-bottom: rem(5px);
 }
 
 h2{
-  font-size: rem(38px); /* 38px */
-  line-height: rem(40px);
-  margin-bottom: 0;
-  padding-bottom: rem(10px);
+	font-size: rem(38px); /* 38px */
+	line-height: rem(40px);
+	margin-bottom: 0;
+	padding-bottom: rem(10px);
 }
 
 h3{
-  font-size: rem(30px);
-  line-height: rem(32px);
-  margin-bottom: 0;
-  padding-bottom: rem(17px);
+	font-size: rem(30px);
+	line-height: rem(32px);
+	margin-bottom: 0;
+	padding-bottom: rem(17px);
 }
 
 h4{
-  font-size: rem(24px);
-  line-height: rem(28px);
-  margin-bottom: rem(20px);
+	font-size: rem(24px);
+	line-height: rem(28px);
+	margin-bottom: rem(20px);
 }
 
 h5{
-  font-size: rem(24px);
-  line-height: rem(28px);
-  margin-bottom: rem(12px);
+	font-size: rem(24px);
+	line-height: rem(28px);
+	margin-bottom: rem(12px);
 }
 
 h6{
-  font-size: rem(18px);
-  line-height: rem(20px);
-  margin-bottom: 0;
+	font-size: rem(18px);
+	line-height: rem(20px);
+	margin-bottom: 0;
 }
 
 /* Extra small devices (phones, less than 768px) */
@@ -80,14 +67,14 @@ h6{
 
 // Extra small devices (portrait phones, less than 34em)
 .container{
-  max-width: 100%;
-  padding-right: $gap;
-  padding-left: $gap;
+	max-width: 100%;
+	padding-right: $gap;
+	padding-left: $gap;
 }
 
 .container{
-  margin-right: auto;
-  margin-left: auto;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 @media screen and (max-width: 599px){
@@ -104,6 +91,9 @@ h6{
 }
 
 @media screen and (min-width: 1200px){
+	.container{
+		width: 1170px;
+	}
 
 }
 
@@ -114,7 +104,7 @@ h6{
 /********** FORM *********/
 
 input[placeholder]{
-  text-overflow: ellipsis;
+	text-overflow: ellipsis;
 }
 
 /* сдвиг placeholder-а вниз при фокусе*/
