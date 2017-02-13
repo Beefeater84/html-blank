@@ -104,10 +104,7 @@
  	top: 1em;
  	-webkit-animation: opacityToggle 2s;
  	animation: opacityToggle 2s;
-
  }
-
-
 /**
  * Когда флажок установлен, открывается панель
  * используем псевдокласс:checked
@@ -120,8 +117,6 @@
  	-webkit-box-shadow:4px 0px 20px 0px rgba(0,0,0, 0.5);
  	overflow-y: auto;
  }
-
-
 /* 
  * смещение контента страницы
  * на размер ширины панели,
@@ -133,14 +128,11 @@
  	-moz-transform: translateX(320px);
  	transform: translateX(320px);
  }
-
-
 /*
  * изменение символа переключателя,
  * привычный крестик (MULTIPLICATION X), 
  * вы можете испльзовать любой другой значок
  */
-
  [id='nav-toggle']:checked ~ .nav-toggle:after {
  	content: '\2715';
  }
@@ -170,7 +162,6 @@
  * профиксим баг в Android <= 4.1.2
  * см: http://timpietrusky.com/advanced-checkbox-hack
  */
-
  body {
  	-webkit-animation: bugfix infinite 1s;
  }
