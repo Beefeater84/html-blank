@@ -7,7 +7,7 @@
 
  .nav {
  	/*  ширна произвольная, не стесняйтесь экспериментировать */
- 	width: 280px;
+ 	width: 320px;
  	/* фиксируем и выставляем высоту панели на максимум */
  	height: 100%;
  	position: fixed;
@@ -55,7 +55,7 @@
 	 font-size: 1.2em;
 	 line-height: 1;
 	 /* всегда поверх других элементов страницы */
-	 z-index: 1000;
+	 z-index: 2001;
 	 /* анимируем цвет текста при наведении */
 	 -webkit-transition: color .25s ease-in-out;
 	 -moz-transition: color .25s ease-in-out;
@@ -104,7 +104,10 @@
  	top: 1em;
  	-webkit-animation: opacityToggle 2s;
  	animation: opacityToggle 2s;
+
  }
+
+
 /**
  * Когда флажок установлен, открывается панель
  * используем псевдокласс:checked
@@ -117,6 +120,8 @@
  	-webkit-box-shadow:4px 0px 20px 0px rgba(0,0,0, 0.5);
  	overflow-y: auto;
  }
+
+
 /* 
  * смещение контента страницы
  * на размер ширины панели,
@@ -128,11 +133,14 @@
  	-moz-transform: translateX(320px);
  	transform: translateX(320px);
  }
+
+
 /*
  * изменение символа переключателя,
  * привычный крестик (MULTIPLICATION X), 
  * вы можете испльзовать любой другой значок
  */
+
  [id='nav-toggle']:checked ~ .nav-toggle:after {
  	content: '\2715';
  }
@@ -162,6 +170,7 @@
  * профиксим баг в Android <= 4.1.2
  * см: http://timpietrusky.com/advanced-checkbox-hack
  */
+
  body {
  	-webkit-animation: bugfix infinite 1s;
  }
@@ -334,7 +343,7 @@
  	display: block;
  	position: fixed;
  	top: 0;
- 	left: 0;
+ 	left: 320px;
  	z-index: 1000;
  	width: 100%;
  	height: 100%;
@@ -370,11 +379,9 @@
  }
 
  @media screen and (min-width: 360px) {
- 	.nav{
- 		width: 320px;
- 	}
+
  	[id='nav-toggle']:checked ~ .nav-toggle {
- 		left: 320px;
+ 		left: 280px;
  		right: auto;
  		top: 1em;
  		-webkit-animation: opacityToggle 2s;
