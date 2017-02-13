@@ -15,13 +15,9 @@ $gap: 1.8rem;
 
 /*** Вспомогательные ***/
 
-%ta-c{
-	text-align: center;
-}
 
-%clean-button{
-  background-color: transparent;
-  border:0;
+@mixin ta-c(){
+  text-align: center;
 }
 
 @mixin clear-fix() {
@@ -30,11 +26,6 @@ $gap: 1.8rem;
       clear: both;
       content: '';
   }
-}
-
-@mixin clean-button() {
-  background-color: transparent;
-  border:0;
 }
 
 /// Mixin printing a linear-gradient
@@ -99,32 +90,33 @@ $gap: 1.8rem;
 
 /******** Helpers *******/
 
-%align-center{
+
+@mixin align-center(){
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
 }
 
-%vertical-align{
+@mixin vertical-align(){
   position: absolute;
   top: 50%;
   transform: translateY(-50%);  
 }
 
-%center-center{
+@mixin center-center(){
   position: absolute;
   left: 50%;
   top:50%;
   transform: translate(-50%, -50%);
-   
 }
 
 
-%reset-margin{
+@mixin reset-margin(){
   margin:0px;
 }
 
-%assistive-text {
+
+@mixin assistive-text() {
     position: absolute !important;
     clip: rect(1px, 1px, 1px, 1px);
 }
