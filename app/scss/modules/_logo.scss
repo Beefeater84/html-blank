@@ -1,0 +1,31 @@
+.logo{
+	display: flex;
+	justify-content: center;
+	a{
+		text-decoration: none;
+		display: block;
+		width: 100%;
+		img{
+			float: left;
+			margin-right: 13px;
+			margin-top: 2px;
+		}
+	}
+	.logo-title{
+		padding-top: 5px;
+		font-size: 18px;
+		color: #fff;
+		display: block;
+		float: left;
+	}
+
+	.logo_descr{
+		font-size: 10px;
+		font-family: "NotoSansBoldItalic", sans-serif;
+		color: #5d8dc2;
+		margin-top: -1px;
+		display: block;
+		float: left;
+	}
+
+}
