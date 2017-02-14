@@ -1,0 +1,19 @@
+.breadcrumbs {	
+	color: #5d8dc2;
+	font-size: 16px;
+	background-color: #dde2e5;
+	display: inline-block;
+	line-height: 30px;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-radius: 3px;
+	margin-bottom: 47px;
+	a{
+		text-decoration: none;
+		color: #5d8dc2;
+	}
+}
+.slash{
+	display: inline-block;
+	transform: scaleY(0.75);
+}

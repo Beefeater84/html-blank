@@ -1,0 +1,76 @@
+.side_menu {
+	margin-top: 23px;
+	clear: both;
+	nav{
+		background-color: #eef0f2;
+		ul{
+			font-family: "NotoSansBold", sans-serif;
+			font-size: 16px;
+			list-style-image: url(../img/blue_arrow_right.png);
+			padding-top: 9px;
+			padding-left: 36px;
+			li{
+				padding: 10px 5px 4px 6px;
+				list-style-position: outside;
+				a{
+					padding-bottom: 16px;
+					position: relative;
+					text-decoration: none;
+					display: block;
+					color: #2c3e50;
+					&::after{
+						position: absolute;
+						content: "";
+						bottom: 0;
+						left: -30px;
+						width: 105%;
+						height: 1px;
+						background-color: #fff;
+					}
+
+				}
+				ul{
+					padding: 0 0 0 0;
+					list-style-type: none;
+					list-style-image: none;
+					font-family: "NotoSansRegular", sans-serif;
+					li{
+						padding: 14px 0 0 0;
+						a{
+							padding-bottom: 15px;
+							position: relative;
+							text-decoration: none;
+							display: block;
+							color: #2c3e50;
+							&::after{
+								position: absolute;
+								content: "";
+								bottom: 0;
+								left: -30px;
+								width: 105%;
+								height: 1px;
+								background-color: #fff;
+							}
+
+						}
+
+					}
+
+				}
+				&:last-child{
+					ul{
+						li{
+							&:last-child{
+								a{
+									&:after{
+										height: 0;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}	
+	}
+}

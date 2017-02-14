@@ -15,14 +15,24 @@ section{
 	background-color: $bg-color;
 	position: relative;
 }
-
+.header .container {
+	height: 100%;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}
 .main-content{
 	padding: $gap;
 }
 
 
 /** H1-H6 ***/
-
+h1,h2,h3,h4,h5,h6{
+	color: $h-color;
+	font-family: "NotoSansBold", sans-serif;
+}
 h1{
 	font-size: rem(48px);
 	line-height: rem(50px);

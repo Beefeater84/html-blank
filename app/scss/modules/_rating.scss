@@ -1,0 +1,20 @@
+.rating{
+	background-color: #eef0f2;
+	border-radius: 3px;
+	color: #2c3e50;
+	line-height: 21px;
+	margin-top: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	float: left;
+	width: 100%;
+	.rat_desc{
+		display: block;
+	}
+
+	img{
+		float: left;
+		margin: 2px 19px;
+	}
+
+}
