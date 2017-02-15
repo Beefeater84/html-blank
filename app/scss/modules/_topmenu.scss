@@ -1,0 +1,94 @@
+.topmenu {
+	height: 100%;
+	justify-content: flex-end;
+	display: none;
+	a{
+		color: #fff;
+		text-decoration: none;
+		line-height: 38px;
+		display: block;
+		&:after{
+			content: url(../img/blue_arrow.png);
+			position: absolute;
+			right: 3px;
+		}
+		&:only-child:after{
+			content: "";
+		}
+	}
+	&_list{
+		margin: 0;
+		padding: 0;
+		color: #fff;
+		list-style-type: none;
+		z-index: 10;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-wrap: wrap;
+		margin: -1px -8px 0px 0px;
+		justify-content: flex-end;
+
+	}
+	&_list_item{
+		display: inline-block;
+		padding-left: 22px;
+		padding-right: 22px;
+		font-size: 14px;
+		position: relative;
+		&:hover{
+			a{
+				color: #e8b607;
+				&:after{
+					content: url(../img/yellow_arrow.png);
+				}
+				&:only-child:after{
+					content: "";
+				}
+			}
+			> .topmenu_submenu {
+				display: inherit;
+				li{
+					a{
+						color: #fff;
+					}
+				}
+
+			}
+		}
+	}
+
+	&_submenu{
+		display: none;
+		position: absolute;
+		top: 40px;
+		left: 0;
+		width: 200px;
+		background-color: #23313e;
+		border-radius: 3px;
+		line-height: 34px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		li{
+			display: block;
+			&:hover{
+				background-color: #2c3e50;
+			}
+		}
+		a{
+			padding-left: 20px;
+			padding-right: 20px;
+		}
+	}
+}
+ @media screen and (min-width: 600px) {
+ 	.topmenu{
+ 		display: -webkit-flex;
+ 		display: -moz-flex;
+ 		display: -ms-flex;
+ 		display: -o-flex;
+ 		display: flex;
+ 	}
+ }
