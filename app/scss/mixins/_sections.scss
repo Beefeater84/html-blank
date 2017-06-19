@@ -1,0 +1,23 @@
+@mixin section-color($color, $hovercolor: #fff){
+  background-color: $color;
+
+  &.invert{
+    @include section-invert($hovercolor);
+  }
+}
+
+@mixin section-invert($color: #fff){
+  color: $color;
+  a{
+    color: $color;
+  }
+   h1, h2, h3, h4, h5, h6{
+    color: $color;
+  }
+  .line-sep, .overText--line-sep{
+     background-color: $color;   
+  }
+  .history-text{
+    color: $color;
+  }
+}

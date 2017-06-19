@@ -1,0 +1,28 @@
+.topmenu {
+  display: none;
+
+  @include for-tablet-landscape-up {
+    display: block;
+    margin-left: auto;
+  }
+
+  &__items {
+    @include for-tablet-landscape-up {
+      display: flex;
+    }
+  }
+
+  &__item {
+    @include for-tablet-landscape-up {
+      margin-left: 10px;
+    }
+  }
+}
+
+.logo{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-decoration: none;
+}
+
