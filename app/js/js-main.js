@@ -164,14 +164,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Также в метод add можно передать экземпляр класса элемента управления.
         // Например, панель управления пробками.
-        let trafficControl = new ymaps.control.TrafficControl();
-        myMap.controls
-            .add(trafficControl)
-            // В конструкторе элемента управления можно задавать расширенные
-            // параметры, например, тип карты в обзорной карте.
-            .add(new ymaps.control.MiniMap({
-                type: 'yandex#publicMap'
-            }));
+        // let trafficControl = new ymaps.control.TrafficControl();
+        // myMap.controls
+        //     .add(trafficControl)
+        //     // В конструкторе элемента управления можно задавать расширенные
+        //     // параметры, например, тип карты в обзорной карте.
+        //     .add(new ymaps.control.MiniMap({
+        //         type: 'yandex#publicMap'
+        //     }));
 
         /*
          // Удаление элементов управления производится через метод remove.
