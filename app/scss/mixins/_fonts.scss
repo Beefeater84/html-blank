@@ -15,11 +15,6 @@
   src: url('../fonts/Helvetica/3387D5_2_0.eot?#iefix') format('embedded-opentype'), url('../fonts/Helvetica/3387D5_2_0.woff2') format('woff2'), url('../fonts/Helvetica/3387D5_2_0.woff') format('woff'), url('../fonts/Helvetica/3387D5_2_0.ttf') format('truetype');
 }
 
-/* @mixin HelveticaNeueLTStd-Bd() { 
-	font-family: HelveticaNeueLTStd-Bd;
-	font-weight: normal;
-	font-style: normal;
-} */
 @mixin HelveticaNeueLTStd-Roman() {
   font-family: HelveticaNeueLTStd-Roman;
   font-weight: normal;
