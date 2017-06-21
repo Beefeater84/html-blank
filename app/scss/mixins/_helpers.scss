@@ -43,7 +43,6 @@
   }
 }
 
-@mixin header(){
-  @include HelveticaNeueLTStd-Md();
-  color: #4f5255;
+@function rem($px, $base: $font_size) {
+    @return ($px / $base) * 1rem;
 }

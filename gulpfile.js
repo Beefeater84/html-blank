@@ -47,7 +47,7 @@ gulp.task('moveJs', function(){
         .pipe(gulpif(Boolean(prod), uglify()))
         .pipe(gulp.dest(wp_dir + '/js'));
 });
-/*   pipe(pagebuilder(app_dir))         */
+
 gulp.task('moveHtml', function(){
     return gulp.src( app_dir + '/*.html')
             .pipe(fileinclude())
