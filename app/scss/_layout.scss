@@ -2,7 +2,7 @@ body{
   @include HelveticaNeueLTStd-Roman();
   font-size: $font-size;
   line-height: $line-height;
-  color: $color;
+  color: $t-color;
 }
 
 article,
@@ -31,7 +31,7 @@ main{
 .header{
   font-size: 17px;
   height: 73px;
-  background-color: $color-top;
+  background-color: $head-color;
   position: relative;
   @include section-invert();
 
