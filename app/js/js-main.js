@@ -112,10 +112,11 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var multiSlides = document.querySelector('.js_multislides');
 
-    lory(multiSlides, {
-        rewind: true,
-        // infinite: 1
-        infinite: 5,
-        slidesToScroll: 1
-    });
+    if(multiSlides) {
+        lory(multiSlides, {
+            rewind: true,// зацикленность
+            infinite: 5,//кол-во item на экране
+            slidesToScroll: 1
+        });
+    }
 });
