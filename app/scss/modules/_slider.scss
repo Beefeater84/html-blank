@@ -1,9 +1,44 @@
-.slider{
+///**
+// * (optional) define here the style definitions which should be applied on the slider container
+// * e.g. width including further controls like arrows etc.
+// */
+//.slider {}
+//
+//.frame {
+//  /**
+//   * (optional) wrapper width, specifies width of the slider frame.
+//   */
+//  width: 880px;
+//
+//  position: relative;
+//  font-size: 0;
+//  line-height: 0;
+//  overflow: hidden;
+//  white-space: nowrap;
+//}
+//
+//.slides {
+//  display: inline-block;
+//}
+//
+//li {
+//  position: relative;
+//  display: inline-block;
+//
+//  /**
+//   * (optional) if the content inside the slide element has a defined size.
+//   */
+//  width: 880px;
+//
+//}
+
+.slider {
   position: relative;
   display: flex;
   justify-content: center;
   width: 100%;
-  &__frame{
+
+  &__frame {
     width: inherit;
     position: relative;
     font-size: 0;
@@ -11,22 +46,30 @@
     overflow: hidden;
     white-space: nowrap;
   }
-  &__list{
+
+  &__list {
     display: inline-block;
     width: 100%;
   }
-  &__item{
+
+  &__item {
     position: relative;
     display: inline-block;
+
+    /**
+     * (optional) if the content inside the slide element has a defined size.
+     */
     width: inherit;
+    & .active {
+    }
   }
-  &__content{
+
+  &__content {
     width: 100%;
   }
 }
 
-.prev,
-.next{
+.prev, .next {
   position: absolute;
   top: 50%;
   margin-top: -25px;
@@ -34,15 +77,14 @@
   cursor: pointer;
 }
 
-.next{
+.next {
   right: 0;
 }
 
-.prev{
+.prev {
   left: 0;
 }
 
-.next svg,
-.prev svg{
+.next svg, .prev svg {
   width: 25px;
 }

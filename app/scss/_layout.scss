@@ -1,7 +1,8 @@
 body{
+  @include HelveticaNeueLTStd-Roman();
   font-size: $font-size;
   line-height: $line-height;
-  color: $t-color;
+  color: $color;
 }
 
 article,
@@ -30,7 +31,7 @@ main{
 .header{
   font-size: 17px;
   height: 73px;
-  background-color: $head-color;
+  background-color: $color-top;
   position: relative;
   @include section-invert();
 
@@ -54,6 +55,14 @@ main{
   }
 }
 
+.content {
+  width: 100%;
+
+  @include for-tablet-landscape-up {
+    width: 80%;
+  }
+}
+
 .footer{
   a{
     text-decoration: none;
@@ -73,6 +82,7 @@ h4,
 h5,
 h6{
   color: $h-color;
+  @include HelveticaNeueLTStd-Roman();
 }
 h1{
   font-size: 24px;
@@ -124,8 +134,10 @@ h6{
   margin-left: auto;
 
   @include for-desktop-up {
-    width: 1200px;
+    width: 1200px + 2*$gap;
     max-width: 100%;
+    padding-right: 2*$gap;
+    padding-left: 2*$gap;
   }
 }
 
@@ -204,6 +216,30 @@ textarea:focus:-ms-input-placeholder{
   transition: opacity .3s ease;
 }
 
+.sidebar-block-gray{
+  background-color: #f2f2f2;
+  border: 1px solid #e4e6ea;
+  margin-top: $gap;
+  margin-bottom: $gap;
+  padding: 17px 23px 17px 23px;
+  border-radius: 3px;
+}
+
+.sidebar-block{
+  padding: 0 23px 0 23px;
+  margin-top: $gap;
+  margin-bottom: $gap;
+}
+hr{
+  max-width: 1108px;
+  margin-top: 25px;
+  margin-bottom: 28px;
+  border: none;
+  color: #dadada;
+  height: 1px;
+  background-color: #dadada;
+}
+
 .left-sidebar .sidebar {
   width: 20%;
   padding: 20px;
@@ -230,8 +266,16 @@ textarea:focus:-ms-input-placeholder{
   }
 }
 
-.both-sidebar .sidebar-second { 
+.both-sidebar .sidebar-second {
   width: 20%;
   padding: 20px;
   order: 2;
+}
+
+.both-sidebar .content {
+  width: 100%;
+
+  @include for-tablet-landscape-up {
+    width: 60%;
+  }
 }

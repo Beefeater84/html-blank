@@ -7,7 +7,7 @@ body{
 }
 
 html{
-  font-size: $font-size;
+  font-size: $font-size; // for REM
 }
 
 .main-content,
@@ -23,7 +23,7 @@ p{
 
 a{
   text-decoration: underline;
-  color: $t-color;
+  color: $color;
   a:hover{
     color: $hover-link;
     text-decoration: none;
